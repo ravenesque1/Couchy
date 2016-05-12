@@ -8,12 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		03A2E71C1CE4E52100496084 /* Couchy.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E71B1CE4E52100496084 /* Couchy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		03A2E7251CE4E56A00496084 /* ChildView.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7231CE4E56A00496084 /* ChildView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		03A2E7261CE4E56A00496084 /* ChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7241CE4E56A00496084 /* ChildView.m */; };
+		03A2E7281CE4E64F00496084 /* ParentContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7271CE4E64F00496084 /* ParentContainer.swift */; };
+		03A2E72D1CE4EBC800496084 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E7291CE4EBC800496084 /* AFNetworking.framework */; };
+		03A2E72E1CE4EBC800496084 /* CouchbaseLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E72A1CE4EBC800496084 /* CouchbaseLite.framework */; };
+		03A2E72F1CE4EBC800496084 /* INTULocationManager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E72B1CE4EBC800496084 /* INTULocationManager.framework */; };
+		03A2E7301CE4EBC800496084 /* TMCache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E72C1CE4EBC800496084 /* TMCache.framework */; };
+		03A2E7341CE4F2E300496084 /* ParentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7321CE4F2E300496084 /* ParentViewController.h */; };
+		03A2E7351CE4F2E300496084 /* ParentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7331CE4F2E300496084 /* ParentViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		03A2E7181CE4E52100496084 /* Couchy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Couchy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A2E71B1CE4E52100496084 /* Couchy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Couchy.h; sourceTree = "<group>"; };
 		03A2E71D1CE4E52100496084 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03A2E7231CE4E56A00496084 /* ChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildView.h; sourceTree = "<group>"; };
+		03A2E7241CE4E56A00496084 /* ChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildView.m; sourceTree = "<group>"; };
+		03A2E7271CE4E64F00496084 /* ParentContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentContainer.swift; sourceTree = "<group>"; };
+		03A2E7291CE4EBC800496084 /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = Carthage/Build/iOS/AFNetworking.framework; sourceTree = "<group>"; };
+		03A2E72A1CE4EBC800496084 /* CouchbaseLite.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CouchbaseLite.framework; path = Carthage/Build/iOS/CouchbaseLite.framework; sourceTree = "<group>"; };
+		03A2E72B1CE4EBC800496084 /* INTULocationManager.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = INTULocationManager.framework; path = Carthage/Build/iOS/INTULocationManager.framework; sourceTree = "<group>"; };
+		03A2E72C1CE4EBC800496084 /* TMCache.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TMCache.framework; path = Carthage/Build/iOS/TMCache.framework; sourceTree = "<group>"; };
+		03A2E7321CE4F2E300496084 /* ParentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParentViewController.h; sourceTree = "<group>"; };
+		03A2E7331CE4F2E300496084 /* ParentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParentViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -21,6 +39,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03A2E72D1CE4EBC800496084 /* AFNetworking.framework in Frameworks */,
+				03A2E72E1CE4EBC800496084 /* CouchbaseLite.framework in Frameworks */,
+				03A2E72F1CE4EBC800496084 /* INTULocationManager.framework in Frameworks */,
+				03A2E7301CE4EBC800496084 /* TMCache.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -30,6 +52,10 @@
 		03A2E70E1CE4E52100496084 = {
 			isa = PBXGroup;
 			children = (
+				03A2E7291CE4EBC800496084 /* AFNetworking.framework */,
+				03A2E72A1CE4EBC800496084 /* CouchbaseLite.framework */,
+				03A2E72B1CE4EBC800496084 /* INTULocationManager.framework */,
+				03A2E72C1CE4EBC800496084 /* TMCache.framework */,
 				03A2E71A1CE4E52100496084 /* Couchy */,
 				03A2E7191CE4E52100496084 /* Products */,
 			);
@@ -48,6 +74,11 @@
 			children = (
 				03A2E71B1CE4E52100496084 /* Couchy.h */,
 				03A2E71D1CE4E52100496084 /* Info.plist */,
+				03A2E7231CE4E56A00496084 /* ChildView.h */,
+				03A2E7241CE4E56A00496084 /* ChildView.m */,
+				03A2E7271CE4E64F00496084 /* ParentContainer.swift */,
+				03A2E7321CE4F2E300496084 /* ParentViewController.h */,
+				03A2E7331CE4F2E300496084 /* ParentViewController.m */,
 			);
 			path = Couchy;
 			sourceTree = "<group>";
@@ -59,6 +90,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03A2E7251CE4E56A00496084 /* ChildView.h in Headers */,
+				03A2E7341CE4F2E300496084 /* ParentViewController.h in Headers */,
 				03A2E71C1CE4E52100496084 /* Couchy.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -74,6 +107,7 @@
 				03A2E7141CE4E52100496084 /* Frameworks */,
 				03A2E7151CE4E52100496084 /* Headers */,
 				03A2E7161CE4E52100496084 /* Resources */,
+				03A2E7311CE4EBD700496084 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -125,11 +159,34 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		03A2E7311CE4EBD700496084 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/AFNetworking.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CouchbaseLite.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/INTULocationManager.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/TMCache.framework",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		03A2E7131CE4E52100496084 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03A2E7261CE4E56A00496084 /* ChildView.m in Sources */,
+				03A2E7281CE4E64F00496084 /* ParentContainer.swift in Sources */,
+				03A2E7351CE4F2E300496084 /* ParentViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,26 +287,37 @@
 		03A2E7211CE4E52100496084 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = Couchy/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = by.walla.Couchy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		03A2E7221CE4E52100496084 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = Couchy/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

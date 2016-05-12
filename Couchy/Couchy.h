@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Couchy/ChildView.h>
 
 //! Project version number for Couchy.
 FOUNDATION_EXPORT double CouchyVersionNumber;
