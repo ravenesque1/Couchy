@@ -1,0 +1,1512 @@
+BCSymbolMap Version: 1.0
+-[TMCache initWithName:]
+-[TMCache initWithName:rootPath:]
+-[TMCache description]
++[TMCache sharedCache]
+__22+[TMCache sharedCache]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[TMCache objectForKey:block:]
+__30-[TMCache objectForKey:block:]_block_invoke
+__30-[TMCache objectForKey:block:]_block_invoke_2
+__30-[TMCache objectForKey:block:]_block_invoke_3
+__30-[TMCache objectForKey:block:]_block_invoke_4
+__copy_helper_block_.28
+__destroy_helper_block_.29
+__30-[TMCache objectForKey:block:]_block_invoke.31
+__30-[TMCache objectForKey:block:]_block_invoke_2.34
+__copy_helper_block_.35
+__destroy_helper_block_.36
+__copy_helper_block_.38
+__destroy_helper_block_.39
+__copy_helper_block_.43
+__destroy_helper_block_.44
+__copy_helper_block_.47
+__destroy_helper_block_.48
+-[TMCache setObject:forKey:block:]
+__34-[TMCache setObject:forKey:block:]_block_invoke
+__copy_helper_block_.50
+__destroy_helper_block_.51
+__34-[TMCache setObject:forKey:block:]_block_invoke.53
+__copy_helper_block_.54
+__destroy_helper_block_.55
+__34-[TMCache setObject:forKey:block:]_block_invoke.57
+__copy_helper_block_.58
+__destroy_helper_block_.59
+-[TMCache removeObjectForKey:block:]
+__36-[TMCache removeObjectForKey:block:]_block_invoke
+__copy_helper_block_.61
+__destroy_helper_block_.62
+__36-[TMCache removeObjectForKey:block:]_block_invoke.64
+__copy_helper_block_.65
+__destroy_helper_block_.66
+__36-[TMCache removeObjectForKey:block:]_block_invoke.70
+__copy_helper_block_.71
+__destroy_helper_block_.72
+-[TMCache removeAllObjects:]
+__28-[TMCache removeAllObjects:]_block_invoke
+__copy_helper_block_.74
+__destroy_helper_block_.75
+__28-[TMCache removeAllObjects:]_block_invoke.78
+__copy_helper_block_.79
+__destroy_helper_block_.80
+__28-[TMCache removeAllObjects:]_block_invoke.85
+__copy_helper_block_.86
+__destroy_helper_block_.87
+-[TMCache trimToDate:block:]
+__28-[TMCache trimToDate:block:]_block_invoke
+__copy_helper_block_.89
+__destroy_helper_block_.90
+__28-[TMCache trimToDate:block:]_block_invoke.92
+__copy_helper_block_.93
+__destroy_helper_block_.94
+__28-[TMCache trimToDate:block:]_block_invoke.98
+__copy_helper_block_.99
+__destroy_helper_block_.100
+-[TMCache diskByteCount]
+__24-[TMCache diskByteCount]_block_invoke
+__copy_helper_block_.108
+__destroy_helper_block_.109
+-[TMCache objectForKey:]
+__Block_byref_object_copy_
+__Block_byref_object_dispose_
+__24-[TMCache objectForKey:]_block_invoke
+__copy_helper_block_.111
+__destroy_helper_block_.112
+-[TMCache setObject:forKey:]
+__28-[TMCache setObject:forKey:]_block_invoke
+__copy_helper_block_.115
+__destroy_helper_block_.116
+-[TMCache removeObjectForKey:]
+__30-[TMCache removeObjectForKey:]_block_invoke
+__copy_helper_block_.118
+__destroy_helper_block_.119
+-[TMCache trimToDate:]
+__22-[TMCache trimToDate:]_block_invoke
+__copy_helper_block_.121
+__destroy_helper_block_.122
+-[TMCache removeAllObjects]
+__27-[TMCache removeAllObjects]_block_invoke
+__copy_helper_block_.125
+__destroy_helper_block_.126
+-[TMCache name]
+-[TMCache queue]
+-[TMCache setQueue:]
+-[TMCache diskCache]
+-[TMCache memoryCache]
+-[TMCache .cxx_destruct]
+.str
+_unnamed_cfstring_
+.str.1
+_unnamed_cfstring_.2
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+OBJC_IVAR_$_TMCache._name
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_.9
+OBJC_SELECTOR_REFERENCES_.10
+.str.11
+_unnamed_cfstring_.12
+OBJC_METH_VAR_NAME_.13
+OBJC_SELECTOR_REFERENCES_.14
+OBJC_METH_VAR_NAME_.15
+OBJC_SELECTOR_REFERENCES_.16
+OBJC_IVAR_$_TMCache._queue
+OBJC_CLASSLIST_REFERENCES_$_.17
+OBJC_IVAR_$_TMCache._diskCache
+OBJC_CLASSLIST_REFERENCES_$_.18
+OBJC_IVAR_$_TMCache._memoryCache
+.str.19
+_unnamed_cfstring_.20
+sharedCache.cache
+sharedCache.predicate
+OBJC_METH_VAR_NAME_.21
+OBJC_SELECTOR_REFERENCES_.22
+.str.23
+OBJC_CLASS_NAME_
+__block_descriptor_tmp
+.str.24
+__block_descriptor_tmp.25
+__block_literal_global
+OBJC_METH_VAR_NAME_.26
+OBJC_SELECTOR_REFERENCES_.27
+__block_descriptor_tmp.30
+OBJC_METH_VAR_NAME_.32
+OBJC_SELECTOR_REFERENCES_.33
+__block_descriptor_tmp.37
+__block_descriptor_tmp.40
+OBJC_METH_VAR_NAME_.41
+OBJC_SELECTOR_REFERENCES_.42
+.str.45
+__block_descriptor_tmp.46
+__block_descriptor_tmp.49
+__block_descriptor_tmp.52
+__block_descriptor_tmp.56
+__block_descriptor_tmp.60
+__block_descriptor_tmp.63
+__block_descriptor_tmp.67
+OBJC_METH_VAR_NAME_.68
+OBJC_SELECTOR_REFERENCES_.69
+__block_descriptor_tmp.73
+.str.76
+__block_descriptor_tmp.77
+.str.81
+__block_descriptor_tmp.82
+OBJC_METH_VAR_NAME_.83
+OBJC_SELECTOR_REFERENCES_.84
+__block_descriptor_tmp.88
+__block_descriptor_tmp.91
+__block_descriptor_tmp.95
+OBJC_METH_VAR_NAME_.96
+OBJC_SELECTOR_REFERENCES_.97
+__block_descriptor_tmp.101
+OBJC_METH_VAR_NAME_.102
+OBJC_SELECTOR_REFERENCES_.103
+OBJC_METH_VAR_NAME_.104
+OBJC_SELECTOR_REFERENCES_.105
+OBJC_METH_VAR_NAME_.106
+OBJC_SELECTOR_REFERENCES_.107
+__block_descriptor_tmp.110
+.str.113
+__block_descriptor_tmp.114
+__block_descriptor_tmp.117
+__block_descriptor_tmp.120
+.str.123
+__block_descriptor_tmp.124
+__block_descriptor_tmp.127
+OBJC_CLASS_NAME_.128
+OBJC_METH_VAR_NAME_.129
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CLASS_METHODS_TMCache
+l_OBJC_METACLASS_RO_$_TMCache
+OBJC_CLASS_NAME_.130
+OBJC_METH_VAR_TYPE_.131
+OBJC_METH_VAR_TYPE_.132
+OBJC_METH_VAR_NAME_.133
+OBJC_METH_VAR_TYPE_.134
+OBJC_METH_VAR_TYPE_.135
+OBJC_METH_VAR_TYPE_.136
+OBJC_METH_VAR_NAME_.137
+OBJC_METH_VAR_TYPE_.138
+OBJC_METH_VAR_NAME_.139
+OBJC_METH_VAR_NAME_.140
+OBJC_METH_VAR_TYPE_.141
+OBJC_METH_VAR_NAME_.142
+OBJC_METH_VAR_TYPE_.143
+OBJC_METH_VAR_NAME_.144
+OBJC_METH_VAR_NAME_.145
+OBJC_METH_VAR_TYPE_.146
+OBJC_METH_VAR_NAME_.147
+OBJC_METH_VAR_NAME_.148
+OBJC_METH_VAR_NAME_.149
+OBJC_METH_VAR_NAME_.150
+OBJC_METH_VAR_NAME_.151
+l_OBJC_$_INSTANCE_METHODS_TMCache
+OBJC_METH_VAR_NAME_.152
+OBJC_METH_VAR_TYPE_.153
+OBJC_METH_VAR_NAME_.154
+OBJC_METH_VAR_TYPE_.155
+OBJC_METH_VAR_NAME_.156
+OBJC_METH_VAR_TYPE_.157
+OBJC_METH_VAR_NAME_.158
+OBJC_METH_VAR_TYPE_.159
+l_OBJC_$_INSTANCE_VARIABLES_TMCache
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.160
+OBJC_PROP_NAME_ATTR_.161
+OBJC_PROP_NAME_ATTR_.162
+OBJC_PROP_NAME_ATTR_.163
+OBJC_PROP_NAME_ATTR_.164
+OBJC_PROP_NAME_ATTR_.165
+OBJC_PROP_NAME_ATTR_.166
+OBJC_PROP_NAME_ATTR_.167
+OBJC_PROP_NAME_ATTR_.168
+l_OBJC_$_PROP_LIST_TMCache
+l_OBJC_CLASS_RO_$_TMCache
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.29)
+_dispatch_once
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/usr/include/dispatch/once.h
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/tests
+-[TMCache .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMCache.m
+-[TMCache memoryCache]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMCache.h
+-[TMCache diskCache]
+-[TMCache setQueue:]
+-[TMCache queue]
+-[TMCache name]
+-[TMCache removeAllObjects]
+-[TMCache trimToDate:]
+-[TMCache removeObjectForKey:]
+-[TMCache setObject:forKey:]
+-[TMCache objectForKey:]
+-[TMCache diskByteCount]
+-[TMCache trimToDate:block:]
+-[TMCache removeAllObjects:]
+-[TMCache removeObjectForKey:block:]
+-[TMCache setObject:forKey:block:]
+-[TMCache objectForKey:block:]
++[TMCache sharedCache]
+-[TMCache description]
+-[TMCache initWithName:rootPath:]
+-[TMCache initWithName:]
+-[TMDiskCache initWithName:]
+-[TMDiskCache initWithName:rootPath:]
+__37-[TMDiskCache initWithName:rootPath:]_block_invoke
+-[TMDiskCache description]
++[TMDiskCache sharedCache]
+__26+[TMDiskCache sharedCache]_block_invoke
+__copy_helper_block_.34
+__destroy_helper_block_.35
++[TMDiskCache sharedQueue]
+__26+[TMDiskCache sharedQueue]_block_invoke
+-[TMDiskCache encodedFileURLForKey:]
+-[TMDiskCache keyForEncodedFileURL:]
+-[TMDiskCache encodedString:]
+-[TMDiskCache decodedString:]
++[TMDiskCache sharedTrashQueue]
+__31+[TMDiskCache sharedTrashQueue]_block_invoke
++[TMDiskCache sharedTrashURL]
+__29+[TMDiskCache sharedTrashURL]_block_invoke
++[TMDiskCache moveItemAtURLToTrash:]
++[TMDiskCache emptyTrash]
+__25+[TMDiskCache emptyTrash]_block_invoke
+__copy_helper_block_.101
+__destroy_helper_block_.102
+-[TMDiskCache createCacheDirectory]
+-[TMDiskCache initializeDiskProperties]
+-[TMDiskCache setFileModificationDate:forURL:]
+-[TMDiskCache removeFileAndExecuteBlocksForKey:]
+-[TMDiskCache trimDiskToSize:]
+-[TMDiskCache trimDiskToSizeByDate:]
+-[TMDiskCache trimDiskToDate:]
+-[TMDiskCache trimToAgeLimitRecursively]
+__40-[TMDiskCache trimToAgeLimitRecursively]_block_invoke
+__copy_helper_block_.145
+__destroy_helper_block_.146
+-[TMDiskCache objectForKey:block:]
+__34-[TMDiskCache objectForKey:block:]_block_invoke
+__copy_helper_block_.155
+__destroy_helper_block_.156
+-[TMDiskCache fileURLForKey:block:]
+__35-[TMDiskCache fileURLForKey:block:]_block_invoke
+__copy_helper_block_.158
+__destroy_helper_block_.159
+-[TMDiskCache setObject:forKey:block:]
+__38-[TMDiskCache setObject:forKey:block:]_block_invoke
+__copy_helper_block_.171
+__destroy_helper_block_.172
+-[TMDiskCache removeObjectForKey:block:]
+__40-[TMDiskCache removeObjectForKey:block:]_block_invoke
+__copy_helper_block_.174
+__destroy_helper_block_.175
+-[TMDiskCache trimToSize:block:]
+__32-[TMDiskCache trimToSize:block:]_block_invoke
+__copy_helper_block_.181
+__destroy_helper_block_.182
+-[TMDiskCache trimToDate:block:]
+__32-[TMDiskCache trimToDate:block:]_block_invoke
+__copy_helper_block_.188
+__destroy_helper_block_.189
+-[TMDiskCache trimToSizeByDate:block:]
+__38-[TMDiskCache trimToSizeByDate:block:]_block_invoke
+__copy_helper_block_.193
+__destroy_helper_block_.194
+-[TMDiskCache removeAllObjects:]
+__32-[TMDiskCache removeAllObjects:]_block_invoke
+__copy_helper_block_.198
+__destroy_helper_block_.199
+-[TMDiskCache enumerateObjectsWithBlock:completionBlock:]
+__57-[TMDiskCache enumerateObjectsWithBlock:completionBlock:]_block_invoke
+__copy_helper_block_.201
+__destroy_helper_block_.202
+-[TMDiskCache objectForKey:]
+__28-[TMDiskCache objectForKey:]_block_invoke
+__copy_helper_block_.204
+__destroy_helper_block_.205
+-[TMDiskCache fileURLForKey:]
+__29-[TMDiskCache fileURLForKey:]_block_invoke
+__copy_helper_block_.210
+__destroy_helper_block_.211
+-[TMDiskCache setObject:forKey:]
+__32-[TMDiskCache setObject:forKey:]_block_invoke
+__copy_helper_block_.215
+__destroy_helper_block_.216
+-[TMDiskCache removeObjectForKey:]
+__34-[TMDiskCache removeObjectForKey:]_block_invoke
+__copy_helper_block_.220
+__destroy_helper_block_.221
+-[TMDiskCache trimToSize:]
+__26-[TMDiskCache trimToSize:]_block_invoke
+__copy_helper_block_.225
+__destroy_helper_block_.226
+-[TMDiskCache trimToDate:]
+__26-[TMDiskCache trimToDate:]_block_invoke
+__copy_helper_block_.231
+__destroy_helper_block_.232
+-[TMDiskCache trimToSizeByDate:]
+__32-[TMDiskCache trimToSizeByDate:]_block_invoke
+__copy_helper_block_.236
+__destroy_helper_block_.237
+-[TMDiskCache removeAllObjects]
+__31-[TMDiskCache removeAllObjects]_block_invoke
+__copy_helper_block_.239
+__destroy_helper_block_.240
+-[TMDiskCache enumerateObjectsWithBlock:]
+__41-[TMDiskCache enumerateObjectsWithBlock:]_block_invoke
+__copy_helper_block_.242
+__destroy_helper_block_.243
+-[TMDiskCache willAddObjectBlock]
+__Block_byref_object_copy_.247
+__Block_byref_object_dispose_.248
+__33-[TMDiskCache willAddObjectBlock]_block_invoke
+__copy_helper_block_.249
+__destroy_helper_block_.250
+-[TMDiskCache setWillAddObjectBlock:]
+__37-[TMDiskCache setWillAddObjectBlock:]_block_invoke
+__copy_helper_block_.252
+__destroy_helper_block_.253
+-[TMDiskCache willRemoveObjectBlock]
+__36-[TMDiskCache willRemoveObjectBlock]_block_invoke
+__copy_helper_block_.255
+__destroy_helper_block_.256
+-[TMDiskCache setWillRemoveObjectBlock:]
+__40-[TMDiskCache setWillRemoveObjectBlock:]_block_invoke
+__copy_helper_block_.258
+__destroy_helper_block_.259
+-[TMDiskCache willRemoveAllObjectsBlock]
+__40-[TMDiskCache willRemoveAllObjectsBlock]_block_invoke
+__copy_helper_block_.261
+__destroy_helper_block_.262
+-[TMDiskCache setWillRemoveAllObjectsBlock:]
+__44-[TMDiskCache setWillRemoveAllObjectsBlock:]_block_invoke
+__copy_helper_block_.264
+__destroy_helper_block_.265
+-[TMDiskCache didAddObjectBlock]
+__32-[TMDiskCache didAddObjectBlock]_block_invoke
+__copy_helper_block_.267
+__destroy_helper_block_.268
+-[TMDiskCache setDidAddObjectBlock:]
+__36-[TMDiskCache setDidAddObjectBlock:]_block_invoke
+__copy_helper_block_.270
+__destroy_helper_block_.271
+-[TMDiskCache didRemoveObjectBlock]
+__35-[TMDiskCache didRemoveObjectBlock]_block_invoke
+__copy_helper_block_.273
+__destroy_helper_block_.274
+-[TMDiskCache setDidRemoveObjectBlock:]
+__39-[TMDiskCache setDidRemoveObjectBlock:]_block_invoke
+__copy_helper_block_.276
+__destroy_helper_block_.277
+-[TMDiskCache didRemoveAllObjectsBlock]
+__39-[TMDiskCache didRemoveAllObjectsBlock]_block_invoke
+__copy_helper_block_.279
+__destroy_helper_block_.280
+-[TMDiskCache setDidRemoveAllObjectsBlock:]
+__43-[TMDiskCache setDidRemoveAllObjectsBlock:]_block_invoke
+__copy_helper_block_.282
+__destroy_helper_block_.283
+-[TMDiskCache byteLimit]
+__24-[TMDiskCache byteLimit]_block_invoke
+__copy_helper_block_.285
+__destroy_helper_block_.286
+-[TMDiskCache setByteLimit:]
+__28-[TMDiskCache setByteLimit:]_block_invoke
+__copy_helper_block_.288
+__destroy_helper_block_.289
+-[TMDiskCache ageLimit]
+__23-[TMDiskCache ageLimit]_block_invoke
+__copy_helper_block_.291
+__destroy_helper_block_.292
+-[TMDiskCache setAgeLimit:]
+__27-[TMDiskCache setAgeLimit:]_block_invoke
+__copy_helper_block_.294
+__destroy_helper_block_.295
++[TMDiskCache setBackgroundTaskManager:]
+-[TMDiskCache name]
+-[TMDiskCache cacheURL]
+-[TMDiskCache setCacheURL:]
+-[TMDiskCache byteCount]
+-[TMDiskCache setByteCount:]
+-[TMDiskCache queue]
+-[TMDiskCache setQueue:]
+-[TMDiskCache dates]
+-[TMDiskCache setDates:]
+-[TMDiskCache sizes]
+-[TMDiskCache setSizes:]
+-[TMDiskCache .cxx_destruct]
+OBJC_IVAR_$_TMDiskCache._name
+OBJC_IVAR_$_TMDiskCache._queue
+OBJC_IVAR_$_TMDiskCache._willAddObjectBlock
+OBJC_IVAR_$_TMDiskCache._willRemoveObjectBlock
+OBJC_IVAR_$_TMDiskCache._willRemoveAllObjectsBlock
+OBJC_IVAR_$_TMDiskCache._didAddObjectBlock
+OBJC_IVAR_$_TMDiskCache._didRemoveObjectBlock
+OBJC_IVAR_$_TMDiskCache._didRemoveAllObjectsBlock
+OBJC_IVAR_$_TMDiskCache._byteCount
+OBJC_IVAR_$_TMDiskCache._byteLimit
+OBJC_IVAR_$_TMDiskCache._ageLimit
+OBJC_CLASSLIST_REFERENCES_$_.11
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+OBJC_IVAR_$_TMDiskCache._dates
+OBJC_IVAR_$_TMDiskCache._sizes
+OBJC_CLASSLIST_REFERENCES_$_.14
+.str.15
+_unnamed_cfstring_.16
+OBJC_METH_VAR_NAME_.17
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_CLASSLIST_REFERENCES_$_.19
+OBJC_CLASSLIST_REFERENCES_$_.20
+OBJC_METH_VAR_NAME_.23
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_IVAR_$_TMDiskCache._cacheURL
+OBJC_METH_VAR_NAME_.25
+OBJC_SELECTOR_REFERENCES_.26
+OBJC_METH_VAR_NAME_.27
+OBJC_SELECTOR_REFERENCES_.28
+.str.29
+.str.30
+_unnamed_cfstring_.31
+__block_descriptor_tmp.36
+sharedQueue.queue
+sharedQueue.predicate
+OBJC_METH_VAR_NAME_.37
+OBJC_SELECTOR_REFERENCES_.38
+__block_descriptor_tmp.39
+OBJC_METH_VAR_NAME_.40
+OBJC_SELECTOR_REFERENCES_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_SELECTOR_REFERENCES_.43
+OBJC_METH_VAR_NAME_.44
+OBJC_SELECTOR_REFERENCES_.45
+OBJC_METH_VAR_NAME_.46
+OBJC_SELECTOR_REFERENCES_.47
+OBJC_METH_VAR_NAME_.48
+OBJC_SELECTOR_REFERENCES_.49
+.str.50
+_unnamed_cfstring_.51
+.str.52
+_unnamed_cfstring_.53
+sharedTrashQueue.trashQueue
+sharedTrashQueue.predicate
+.str.54
+_unnamed_cfstring_.55
+__block_literal_global.57
+sharedTrashURL.sharedTrashURL
+sharedTrashURL.predicate
+OBJC_METH_VAR_NAME_.58
+OBJC_SELECTOR_REFERENCES_.59
+OBJC_METH_VAR_NAME_.60
+OBJC_SELECTOR_REFERENCES_.61
+OBJC_CLASSLIST_REFERENCES_$_.62
+OBJC_METH_VAR_NAME_.63
+OBJC_SELECTOR_REFERENCES_.64
+OBJC_METH_VAR_NAME_.65
+OBJC_SELECTOR_REFERENCES_.66
+OBJC_METH_VAR_NAME_.67
+OBJC_SELECTOR_REFERENCES_.68
+OBJC_METH_VAR_NAME_.69
+OBJC_SELECTOR_REFERENCES_.70
+.str.71
+_unnamed_cfstring_.72
+.str.73
+OBJC_METH_VAR_NAME_.74
+OBJC_SELECTOR_REFERENCES_.75
+OBJC_METH_VAR_NAME_.76
+OBJC_SELECTOR_REFERENCES_.77
+__block_descriptor_tmp.78
+__block_literal_global.79
+OBJC_CLASSLIST_REFERENCES_$_.80
+OBJC_METH_VAR_NAME_.81
+OBJC_SELECTOR_REFERENCES_.82
+OBJC_METH_VAR_NAME_.85
+OBJC_SELECTOR_REFERENCES_.86
+OBJC_METH_VAR_NAME_.87
+OBJC_SELECTOR_REFERENCES_.88
+TMCacheBackgroundTaskManager
+OBJC_METH_VAR_NAME_.89
+OBJC_SELECTOR_REFERENCES_.90
+OBJC_METH_VAR_NAME_.91
+OBJC_SELECTOR_REFERENCES_.92
+OBJC_METH_VAR_NAME_.93
+OBJC_SELECTOR_REFERENCES_.94
+OBJC_METH_VAR_NAME_.95
+OBJC_SELECTOR_REFERENCES_.96
+OBJC_METH_VAR_NAME_.97
+OBJC_SELECTOR_REFERENCES_.98
+OBJC_METH_VAR_NAME_.99
+OBJC_SELECTOR_REFERENCES_.100
+OBJC_CLASS_NAME_.103
+__block_descriptor_tmp.104
+OBJC_METH_VAR_NAME_.105
+OBJC_SELECTOR_REFERENCES_.106
+OBJC_METH_VAR_NAME_.107
+OBJC_SELECTOR_REFERENCES_.108
+OBJC_METH_VAR_NAME_.109
+OBJC_SELECTOR_REFERENCES_.110
+OBJC_METH_VAR_NAME_.111
+OBJC_SELECTOR_REFERENCES_.112
+OBJC_METH_VAR_NAME_.113
+OBJC_SELECTOR_REFERENCES_.114
+OBJC_METH_VAR_NAME_.115
+OBJC_SELECTOR_REFERENCES_.116
+OBJC_CLASSLIST_REFERENCES_$_.117
+OBJC_METH_VAR_NAME_.118
+OBJC_SELECTOR_REFERENCES_.119
+OBJC_METH_VAR_NAME_.120
+OBJC_SELECTOR_REFERENCES_.121
+OBJC_METH_VAR_NAME_.122
+OBJC_SELECTOR_REFERENCES_.123
+OBJC_METH_VAR_NAME_.124
+OBJC_SELECTOR_REFERENCES_.125
+OBJC_METH_VAR_NAME_.126
+OBJC_SELECTOR_REFERENCES_.127
+OBJC_METH_VAR_NAME_.128
+OBJC_SELECTOR_REFERENCES_.129
+OBJC_METH_VAR_NAME_.130
+OBJC_SELECTOR_REFERENCES_.131
+OBJC_METH_VAR_NAME_.132
+OBJC_SELECTOR_REFERENCES_.133
+OBJC_METH_VAR_NAME_.134
+OBJC_SELECTOR_REFERENCES_.135
+OBJC_METH_VAR_NAME_.136
+OBJC_SELECTOR_REFERENCES_.137
+OBJC_CLASSLIST_REFERENCES_$_.138
+OBJC_SELECTOR_REFERENCES_.140
+OBJC_METH_VAR_NAME_.141
+OBJC_SELECTOR_REFERENCES_.142
+OBJC_METH_VAR_NAME_.143
+OBJC_SELECTOR_REFERENCES_.144
+__block_descriptor_tmp.147
+OBJC_CLASSLIST_REFERENCES_$_.148
+OBJC_SELECTOR_REFERENCES_.150
+OBJC_SELECTOR_REFERENCES_.152
+OBJC_METH_VAR_NAME_.153
+OBJC_SELECTOR_REFERENCES_.154
+__block_descriptor_tmp.157
+__block_descriptor_tmp.160
+OBJC_CLASSLIST_REFERENCES_$_.161
+OBJC_METH_VAR_NAME_.162
+OBJC_SELECTOR_REFERENCES_.163
+OBJC_CLASSLIST_REFERENCES_$_.164
+OBJC_METH_VAR_NAME_.165
+OBJC_SELECTOR_REFERENCES_.166
+OBJC_METH_VAR_NAME_.167
+OBJC_SELECTOR_REFERENCES_.168
+OBJC_METH_VAR_NAME_.169
+OBJC_SELECTOR_REFERENCES_.170
+__block_descriptor_tmp.173
+__block_descriptor_tmp.176
+OBJC_METH_VAR_NAME_.177
+OBJC_SELECTOR_REFERENCES_.178
+OBJC_METH_VAR_NAME_.179
+OBJC_SELECTOR_REFERENCES_.180
+__block_descriptor_tmp.183
+OBJC_METH_VAR_NAME_.184
+OBJC_SELECTOR_REFERENCES_.185
+OBJC_METH_VAR_NAME_.186
+OBJC_SELECTOR_REFERENCES_.187
+__block_descriptor_tmp.190
+OBJC_METH_VAR_NAME_.191
+OBJC_SELECTOR_REFERENCES_.192
+__block_descriptor_tmp.195
+OBJC_METH_VAR_NAME_.196
+OBJC_SELECTOR_REFERENCES_.197
+__block_descriptor_tmp.200
+__block_descriptor_tmp.203
+.str.206
+__block_descriptor_tmp.207
+OBJC_METH_VAR_NAME_.208
+OBJC_SELECTOR_REFERENCES_.209
+__block_descriptor_tmp.212
+OBJC_METH_VAR_NAME_.213
+OBJC_SELECTOR_REFERENCES_.214
+__block_descriptor_tmp.217
+OBJC_METH_VAR_NAME_.218
+OBJC_SELECTOR_REFERENCES_.219
+__block_descriptor_tmp.222
+OBJC_METH_VAR_NAME_.223
+OBJC_SELECTOR_REFERENCES_.224
+.str.227
+__block_descriptor_tmp.228
+OBJC_METH_VAR_NAME_.229
+OBJC_SELECTOR_REFERENCES_.230
+__block_descriptor_tmp.233
+OBJC_METH_VAR_NAME_.234
+OBJC_SELECTOR_REFERENCES_.235
+__block_descriptor_tmp.238
+__block_descriptor_tmp.241
+__block_descriptor_tmp.244
+OBJC_METH_VAR_NAME_.245
+OBJC_SELECTOR_REFERENCES_.246
+__block_descriptor_tmp.251
+__block_descriptor_tmp.254
+__block_descriptor_tmp.257
+__block_descriptor_tmp.260
+__block_descriptor_tmp.263
+__block_descriptor_tmp.266
+__block_descriptor_tmp.269
+__block_descriptor_tmp.272
+__block_descriptor_tmp.275
+__block_descriptor_tmp.278
+__block_descriptor_tmp.281
+__block_descriptor_tmp.284
+__block_descriptor_tmp.287
+__block_descriptor_tmp.290
+__block_descriptor_tmp.293
+__block_descriptor_tmp.296
+OBJC_CLASS_NAME_.297
+OBJC_METH_VAR_NAME_.298
+OBJC_METH_VAR_TYPE_.299
+OBJC_METH_VAR_TYPE_.300
+OBJC_METH_VAR_NAME_.301
+OBJC_METH_VAR_TYPE_.302
+l_OBJC_$_CLASS_METHODS_TMDiskCache
+l_OBJC_METACLASS_RO_$_TMDiskCache
+OBJC_CLASS_NAME_.303
+OBJC_METH_VAR_TYPE_.304
+OBJC_METH_VAR_TYPE_.305
+OBJC_METH_VAR_NAME_.306
+OBJC_METH_VAR_TYPE_.307
+OBJC_METH_VAR_TYPE_.308
+OBJC_METH_VAR_TYPE_.309
+OBJC_METH_VAR_TYPE_.310
+OBJC_METH_VAR_TYPE_.311
+OBJC_METH_VAR_TYPE_.312
+OBJC_METH_VAR_TYPE_.313
+OBJC_METH_VAR_TYPE_.314
+OBJC_METH_VAR_NAME_.315
+OBJC_METH_VAR_TYPE_.316
+OBJC_METH_VAR_NAME_.317
+OBJC_METH_VAR_NAME_.318
+OBJC_METH_VAR_NAME_.319
+OBJC_METH_VAR_NAME_.320
+OBJC_METH_VAR_NAME_.321
+OBJC_METH_VAR_TYPE_.322
+OBJC_METH_VAR_NAME_.323
+OBJC_METH_VAR_NAME_.324
+OBJC_METH_VAR_NAME_.325
+OBJC_METH_VAR_NAME_.326
+OBJC_METH_VAR_NAME_.327
+OBJC_METH_VAR_NAME_.328
+OBJC_METH_VAR_NAME_.329
+OBJC_METH_VAR_NAME_.330
+OBJC_METH_VAR_NAME_.331
+OBJC_METH_VAR_NAME_.332
+OBJC_METH_VAR_NAME_.333
+OBJC_METH_VAR_NAME_.334
+OBJC_METH_VAR_TYPE_.335
+OBJC_METH_VAR_NAME_.336
+OBJC_METH_VAR_NAME_.337
+OBJC_METH_VAR_TYPE_.338
+OBJC_METH_VAR_NAME_.339
+OBJC_METH_VAR_TYPE_.340
+OBJC_METH_VAR_NAME_.341
+OBJC_METH_VAR_NAME_.342
+OBJC_METH_VAR_NAME_.343
+OBJC_METH_VAR_NAME_.344
+OBJC_METH_VAR_NAME_.345
+OBJC_METH_VAR_NAME_.346
+OBJC_METH_VAR_NAME_.347
+OBJC_METH_VAR_NAME_.348
+OBJC_METH_VAR_NAME_.349
+OBJC_METH_VAR_NAME_.350
+OBJC_METH_VAR_NAME_.351
+l_OBJC_$_INSTANCE_METHODS_TMDiskCache
+OBJC_METH_VAR_NAME_.352
+OBJC_METH_VAR_TYPE_.353
+OBJC_METH_VAR_NAME_.354
+OBJC_METH_VAR_NAME_.355
+OBJC_METH_VAR_NAME_.356
+OBJC_METH_VAR_NAME_.357
+OBJC_METH_VAR_NAME_.358
+OBJC_METH_VAR_NAME_.359
+OBJC_METH_VAR_TYPE_.360
+OBJC_METH_VAR_NAME_.361
+OBJC_METH_VAR_TYPE_.362
+OBJC_METH_VAR_NAME_.363
+OBJC_METH_VAR_TYPE_.364
+OBJC_METH_VAR_NAME_.365
+OBJC_METH_VAR_TYPE_.366
+OBJC_METH_VAR_NAME_.367
+OBJC_METH_VAR_NAME_.368
+OBJC_METH_VAR_TYPE_.369
+OBJC_METH_VAR_NAME_.370
+OBJC_METH_VAR_TYPE_.371
+OBJC_METH_VAR_NAME_.372
+l_OBJC_$_INSTANCE_VARIABLES_TMDiskCache
+OBJC_PROP_NAME_ATTR_.373
+OBJC_PROP_NAME_ATTR_.374
+OBJC_PROP_NAME_ATTR_.375
+OBJC_PROP_NAME_ATTR_.376
+OBJC_PROP_NAME_ATTR_.377
+OBJC_PROP_NAME_ATTR_.378
+OBJC_PROP_NAME_ATTR_.379
+OBJC_PROP_NAME_ATTR_.380
+OBJC_PROP_NAME_ATTR_.381
+OBJC_PROP_NAME_ATTR_.382
+OBJC_PROP_NAME_ATTR_.383
+OBJC_PROP_NAME_ATTR_.384
+OBJC_PROP_NAME_ATTR_.385
+OBJC_PROP_NAME_ATTR_.386
+OBJC_PROP_NAME_ATTR_.387
+OBJC_PROP_NAME_ATTR_.388
+OBJC_PROP_NAME_ATTR_.389
+OBJC_PROP_NAME_ATTR_.390
+OBJC_PROP_NAME_ATTR_.391
+OBJC_PROP_NAME_ATTR_.392
+OBJC_PROP_NAME_ATTR_.393
+OBJC_PROP_NAME_ATTR_.394
+OBJC_PROP_NAME_ATTR_.395
+OBJC_PROP_NAME_ATTR_.396
+OBJC_PROP_NAME_ATTR_.397
+OBJC_PROP_NAME_ATTR_.398
+OBJC_PROP_NAME_ATTR_.399
+l_OBJC_$_PROP_LIST_TMDiskCache
+l_OBJC_CLASS_RO_$_TMDiskCache
+-[TMDiskCache .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMDiskCache.m
+-[TMDiskCache setSizes:]
+-[TMDiskCache sizes]
+-[TMDiskCache setDates:]
+-[TMDiskCache dates]
+-[TMDiskCache setQueue:]
+-[TMDiskCache queue]
+-[TMDiskCache setByteCount:]
+-[TMDiskCache byteCount]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMDiskCache.h
+-[TMDiskCache setCacheURL:]
+-[TMDiskCache cacheURL]
+-[TMDiskCache name]
++[TMDiskCache setBackgroundTaskManager:]
+-[TMDiskCache setAgeLimit:]
+-[TMDiskCache ageLimit]
+-[TMDiskCache setByteLimit:]
+-[TMDiskCache byteLimit]
+-[TMDiskCache setDidRemoveAllObjectsBlock:]
+-[TMDiskCache didRemoveAllObjectsBlock]
+-[TMDiskCache setDidRemoveObjectBlock:]
+-[TMDiskCache didRemoveObjectBlock]
+-[TMDiskCache setDidAddObjectBlock:]
+-[TMDiskCache didAddObjectBlock]
+-[TMDiskCache setWillRemoveAllObjectsBlock:]
+-[TMDiskCache willRemoveAllObjectsBlock]
+-[TMDiskCache setWillRemoveObjectBlock:]
+-[TMDiskCache willRemoveObjectBlock]
+-[TMDiskCache setWillAddObjectBlock:]
+-[TMDiskCache willAddObjectBlock]
+-[TMDiskCache enumerateObjectsWithBlock:]
+-[TMDiskCache removeAllObjects]
+-[TMDiskCache trimToSizeByDate:]
+-[TMDiskCache trimToDate:]
+-[TMDiskCache trimToSize:]
+-[TMDiskCache removeObjectForKey:]
+-[TMDiskCache setObject:forKey:]
+-[TMDiskCache fileURLForKey:]
+-[TMDiskCache objectForKey:]
+-[TMDiskCache enumerateObjectsWithBlock:completionBlock:]
+-[TMDiskCache removeAllObjects:]
+-[TMDiskCache trimToSizeByDate:block:]
+-[TMDiskCache trimToDate:block:]
+-[TMDiskCache trimToSize:block:]
+-[TMDiskCache removeObjectForKey:block:]
+-[TMDiskCache setObject:forKey:block:]
+-[TMDiskCache fileURLForKey:block:]
+-[TMDiskCache objectForKey:block:]
+-[TMDiskCache trimToAgeLimitRecursively]
+-[TMDiskCache trimDiskToDate:]
+-[TMDiskCache trimDiskToSizeByDate:]
+-[TMDiskCache trimDiskToSize:]
+-[TMDiskCache removeFileAndExecuteBlocksForKey:]
+-[TMDiskCache setFileModificationDate:forURL:]
+-[TMDiskCache initializeDiskProperties]
+-[TMDiskCache createCacheDirectory]
++[TMDiskCache emptyTrash]
++[TMDiskCache moveItemAtURLToTrash:]
++[TMDiskCache sharedTrashURL]
++[TMDiskCache sharedTrashQueue]
+-[TMDiskCache decodedString:]
+-[TMDiskCache encodedString:]
+-[TMDiskCache keyForEncodedFileURL:]
+-[TMDiskCache encodedFileURLForKey:]
++[TMDiskCache sharedQueue]
++[TMDiskCache sharedCache]
+-[TMDiskCache description]
+-[TMDiskCache initWithName:rootPath:]
+-[TMDiskCache initWithName:]
+-[TMMemoryCache dealloc]
+-[TMMemoryCache init]
++[TMMemoryCache sharedCache]
+__28+[TMMemoryCache sharedCache]_block_invoke
+-[TMMemoryCache handleMemoryWarning]
+__36-[TMMemoryCache handleMemoryWarning]_block_invoke
+-[TMMemoryCache handleApplicationBackgrounding]
+__47-[TMMemoryCache handleApplicationBackgrounding]_block_invoke
+__copy_helper_block_.33
+__destroy_helper_block_.34
+-[TMMemoryCache removeObjectAndExecuteBlocksForKey:]
+-[TMMemoryCache trimMemoryToDate:]
+-[TMMemoryCache trimToCostLimit:]
+-[TMMemoryCache trimToCostLimitByDate:]
+-[TMMemoryCache trimToAgeLimitRecursively]
+__42-[TMMemoryCache trimToAgeLimitRecursively]_block_invoke
+__42-[TMMemoryCache trimToAgeLimitRecursively]_block_invoke_2
+__copy_helper_block_.59
+__destroy_helper_block_.60
+__copy_helper_block_.62
+__destroy_helper_block_.63
+-[TMMemoryCache objectForKey:block:]
+__36-[TMMemoryCache objectForKey:block:]_block_invoke
+__36-[TMMemoryCache objectForKey:block:]_block_invoke_2
+__copy_helper_block_.67
+__destroy_helper_block_.68
+__copy_helper_block_.70
+__destroy_helper_block_.71
+-[TMMemoryCache setObject:forKey:block:]
+-[TMMemoryCache setObject:forKey:withCost:block:]
+__49-[TMMemoryCache setObject:forKey:withCost:block:]_block_invoke
+__49-[TMMemoryCache setObject:forKey:withCost:block:]_block_invoke_2
+__copy_helper_block_.80
+__destroy_helper_block_.81
+__copy_helper_block_.83
+__destroy_helper_block_.84
+-[TMMemoryCache removeObjectForKey:block:]
+__42-[TMMemoryCache removeObjectForKey:block:]_block_invoke
+__42-[TMMemoryCache removeObjectForKey:block:]_block_invoke_2
+-[TMMemoryCache trimToDate:block:]
+__34-[TMMemoryCache trimToDate:block:]_block_invoke
+__34-[TMMemoryCache trimToDate:block:]_block_invoke_2
+__copy_helper_block_.96
+__destroy_helper_block_.97
+-[TMMemoryCache trimToCost:block:]
+__34-[TMMemoryCache trimToCost:block:]_block_invoke
+__34-[TMMemoryCache trimToCost:block:]_block_invoke_2
+__copy_helper_block_.104
+__destroy_helper_block_.105
+__copy_helper_block_.107
+__destroy_helper_block_.108
+-[TMMemoryCache trimToCostByDate:block:]
+__40-[TMMemoryCache trimToCostByDate:block:]_block_invoke
+__40-[TMMemoryCache trimToCostByDate:block:]_block_invoke_2
+__copy_helper_block_.112
+__destroy_helper_block_.113
+-[TMMemoryCache removeAllObjects:]
+__34-[TMMemoryCache removeAllObjects:]_block_invoke
+__34-[TMMemoryCache removeAllObjects:]_block_invoke_2
+__copy_helper_block_.120
+__destroy_helper_block_.121
+__copy_helper_block_.123
+__destroy_helper_block_.124
+-[TMMemoryCache enumerateObjectsWithBlock:completionBlock:]
+__59-[TMMemoryCache enumerateObjectsWithBlock:completionBlock:]_block_invoke
+__59-[TMMemoryCache enumerateObjectsWithBlock:completionBlock:]_block_invoke_2
+__copy_helper_block_.126
+__destroy_helper_block_.127
+__copy_helper_block_.129
+__destroy_helper_block_.130
+-[TMMemoryCache objectForKey:]
+__30-[TMMemoryCache objectForKey:]_block_invoke
+__copy_helper_block_.132
+__destroy_helper_block_.133
+-[TMMemoryCache setObject:forKey:]
+-[TMMemoryCache setObject:forKey:withCost:]
+__43-[TMMemoryCache setObject:forKey:withCost:]_block_invoke
+__copy_helper_block_.140
+__destroy_helper_block_.141
+-[TMMemoryCache removeObjectForKey:]
+__36-[TMMemoryCache removeObjectForKey:]_block_invoke
+__copy_helper_block_.143
+__destroy_helper_block_.144
+-[TMMemoryCache trimToDate:]
+__28-[TMMemoryCache trimToDate:]_block_invoke
+__copy_helper_block_.148
+__destroy_helper_block_.149
+-[TMMemoryCache trimToCost:]
+__28-[TMMemoryCache trimToCost:]_block_invoke
+__copy_helper_block_.154
+__destroy_helper_block_.155
+-[TMMemoryCache trimToCostByDate:]
+__34-[TMMemoryCache trimToCostByDate:]_block_invoke
+__copy_helper_block_.159
+__destroy_helper_block_.160
+-[TMMemoryCache removeAllObjects]
+__33-[TMMemoryCache removeAllObjects]_block_invoke
+__copy_helper_block_.162
+__destroy_helper_block_.163
+-[TMMemoryCache enumerateObjectsWithBlock:]
+__43-[TMMemoryCache enumerateObjectsWithBlock:]_block_invoke
+__copy_helper_block_.165
+__destroy_helper_block_.166
+-[TMMemoryCache willAddObjectBlock]
+__Block_byref_object_copy_.170
+__Block_byref_object_dispose_.171
+__35-[TMMemoryCache willAddObjectBlock]_block_invoke
+__copy_helper_block_.172
+__destroy_helper_block_.173
+-[TMMemoryCache setWillAddObjectBlock:]
+__39-[TMMemoryCache setWillAddObjectBlock:]_block_invoke
+__copy_helper_block_.177
+__destroy_helper_block_.178
+-[TMMemoryCache willRemoveObjectBlock]
+__38-[TMMemoryCache willRemoveObjectBlock]_block_invoke
+__copy_helper_block_.180
+__destroy_helper_block_.181
+-[TMMemoryCache setWillRemoveObjectBlock:]
+__42-[TMMemoryCache setWillRemoveObjectBlock:]_block_invoke
+__copy_helper_block_.183
+__destroy_helper_block_.184
+-[TMMemoryCache willRemoveAllObjectsBlock]
+__42-[TMMemoryCache willRemoveAllObjectsBlock]_block_invoke
+__copy_helper_block_.186
+__destroy_helper_block_.187
+-[TMMemoryCache setWillRemoveAllObjectsBlock:]
+__46-[TMMemoryCache setWillRemoveAllObjectsBlock:]_block_invoke
+__copy_helper_block_.189
+__destroy_helper_block_.190
+-[TMMemoryCache didAddObjectBlock]
+__34-[TMMemoryCache didAddObjectBlock]_block_invoke
+__copy_helper_block_.192
+__destroy_helper_block_.193
+-[TMMemoryCache setDidAddObjectBlock:]
+__38-[TMMemoryCache setDidAddObjectBlock:]_block_invoke
+__copy_helper_block_.195
+__destroy_helper_block_.196
+-[TMMemoryCache didRemoveObjectBlock]
+__37-[TMMemoryCache didRemoveObjectBlock]_block_invoke
+-[TMMemoryCache setDidRemoveObjectBlock:]
+__41-[TMMemoryCache setDidRemoveObjectBlock:]_block_invoke
+-[TMMemoryCache didRemoveAllObjectsBlock]
+__41-[TMMemoryCache didRemoveAllObjectsBlock]_block_invoke
+-[TMMemoryCache setDidRemoveAllObjectsBlock:]
+__45-[TMMemoryCache setDidRemoveAllObjectsBlock:]_block_invoke
+__copy_helper_block_.207
+__destroy_helper_block_.208
+-[TMMemoryCache didReceiveMemoryWarningBlock]
+__45-[TMMemoryCache didReceiveMemoryWarningBlock]_block_invoke
+-[TMMemoryCache setDidReceiveMemoryWarningBlock:]
+__49-[TMMemoryCache setDidReceiveMemoryWarningBlock:]_block_invoke
+__copy_helper_block_.213
+__destroy_helper_block_.214
+-[TMMemoryCache didEnterBackgroundBlock]
+__40-[TMMemoryCache didEnterBackgroundBlock]_block_invoke
+__copy_helper_block_.216
+__destroy_helper_block_.217
+-[TMMemoryCache setDidEnterBackgroundBlock:]
+__44-[TMMemoryCache setDidEnterBackgroundBlock:]_block_invoke
+__copy_helper_block_.219
+__destroy_helper_block_.220
+-[TMMemoryCache ageLimit]
+__25-[TMMemoryCache ageLimit]_block_invoke
+__copy_helper_block_.222
+__destroy_helper_block_.223
+-[TMMemoryCache setAgeLimit:]
+__29-[TMMemoryCache setAgeLimit:]_block_invoke
+-[TMMemoryCache costLimit]
+__26-[TMMemoryCache costLimit]_block_invoke
+__copy_helper_block_.228
+__destroy_helper_block_.229
+-[TMMemoryCache setCostLimit:]
+__30-[TMMemoryCache setCostLimit:]_block_invoke
+-[TMMemoryCache totalCost]
+__26-[TMMemoryCache totalCost]_block_invoke
+__copy_helper_block_.234
+__destroy_helper_block_.235
+-[TMMemoryCache queue]
+-[TMMemoryCache setQueue:]
+-[TMMemoryCache removeAllObjectsOnMemoryWarning]
+-[TMMemoryCache setRemoveAllObjectsOnMemoryWarning:]
+-[TMMemoryCache removeAllObjectsOnEnteringBackground]
+-[TMMemoryCache setRemoveAllObjectsOnEnteringBackground:]
+-[TMMemoryCache dictionary]
+-[TMMemoryCache setDictionary:]
+-[TMMemoryCache dates]
+-[TMMemoryCache setDates:]
+-[TMMemoryCache costs]
+-[TMMemoryCache setCosts:]
+-[TMMemoryCache .cxx_destruct]
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_CLASSLIST_REFERENCES_$_.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+.str.10
+_unnamed_cfstring_.11
+OBJC_METH_VAR_NAME_.14
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_IVAR_$_TMMemoryCache._queue
+OBJC_CLASSLIST_REFERENCES_$_.16
+OBJC_IVAR_$_TMMemoryCache._dictionary
+OBJC_IVAR_$_TMMemoryCache._dates
+OBJC_IVAR_$_TMMemoryCache._costs
+OBJC_IVAR_$_TMMemoryCache._willAddObjectBlock
+OBJC_IVAR_$_TMMemoryCache._willRemoveObjectBlock
+OBJC_IVAR_$_TMMemoryCache._willRemoveAllObjectsBlock
+OBJC_IVAR_$_TMMemoryCache._didAddObjectBlock
+OBJC_IVAR_$_TMMemoryCache._didRemoveObjectBlock
+OBJC_IVAR_$_TMMemoryCache._didRemoveAllObjectsBlock
+OBJC_IVAR_$_TMMemoryCache._didReceiveMemoryWarningBlock
+OBJC_IVAR_$_TMMemoryCache._didEnterBackgroundBlock
+OBJC_IVAR_$_TMMemoryCache._ageLimit
+OBJC_IVAR_$_TMMemoryCache._costLimit
+OBJC_IVAR_$_TMMemoryCache._totalCost
+OBJC_IVAR_$_TMMemoryCache._removeAllObjectsOnMemoryWarning
+OBJC_IVAR_$_TMMemoryCache._removeAllObjectsOnEnteringBackground
+OBJC_METH_VAR_NAME_.19
+OBJC_SELECTOR_REFERENCES_.20
+OBJC_METH_VAR_NAME_.24
+OBJC_SELECTOR_REFERENCES_.25
+OBJC_METH_VAR_NAME_.31
+OBJC_SELECTOR_REFERENCES_.32
+__block_descriptor_tmp.35
+OBJC_METH_VAR_NAME_.36
+OBJC_SELECTOR_REFERENCES_.37
+OBJC_METH_VAR_NAME_.38
+OBJC_SELECTOR_REFERENCES_.39
+OBJC_METH_VAR_NAME_.50
+OBJC_SELECTOR_REFERENCES_.51
+OBJC_CLASSLIST_REFERENCES_$_.52
+OBJC_METH_VAR_NAME_.53
+OBJC_SELECTOR_REFERENCES_.54
+OBJC_METH_VAR_NAME_.55
+OBJC_SELECTOR_REFERENCES_.56
+OBJC_METH_VAR_NAME_.57
+OBJC_SELECTOR_REFERENCES_.58
+__block_descriptor_tmp.61
+__block_descriptor_tmp.64
+__block_descriptor_tmp.69
+__block_descriptor_tmp.72
+OBJC_METH_VAR_NAME_.73
+OBJC_SELECTOR_REFERENCES_.74
+OBJC_CLASSLIST_REFERENCES_$_.75
+OBJC_METH_VAR_NAME_.78
+OBJC_SELECTOR_REFERENCES_.79
+__block_descriptor_tmp.85
+OBJC_METH_VAR_NAME_.92
+OBJC_SELECTOR_REFERENCES_.93
+OBJC_METH_VAR_NAME_.94
+OBJC_SELECTOR_REFERENCES_.95
+__block_descriptor_tmp.98
+__block_descriptor_tmp.106
+__block_descriptor_tmp.109
+OBJC_METH_VAR_NAME_.110
+OBJC_SELECTOR_REFERENCES_.111
+__block_descriptor_tmp.122
+__block_descriptor_tmp.125
+__block_descriptor_tmp.128
+__block_descriptor_tmp.131
+.str.134
+__block_descriptor_tmp.135
+OBJC_METH_VAR_NAME_.138
+OBJC_SELECTOR_REFERENCES_.139
+__block_descriptor_tmp.142
+__block_descriptor_tmp.145
+OBJC_METH_VAR_NAME_.146
+OBJC_SELECTOR_REFERENCES_.147
+.str.150
+__block_descriptor_tmp.151
+OBJC_SELECTOR_REFERENCES_.153
+__block_descriptor_tmp.156
+OBJC_METH_VAR_NAME_.157
+OBJC_SELECTOR_REFERENCES_.158
+__block_descriptor_tmp.161
+__block_descriptor_tmp.164
+__block_descriptor_tmp.167
+OBJC_METH_VAR_NAME_.168
+OBJC_SELECTOR_REFERENCES_.169
+__block_descriptor_tmp.174
+OBJC_METH_VAR_NAME_.175
+OBJC_SELECTOR_REFERENCES_.176
+__block_descriptor_tmp.179
+__block_descriptor_tmp.182
+__block_descriptor_tmp.185
+__block_descriptor_tmp.188
+__block_descriptor_tmp.191
+__block_descriptor_tmp.194
+__block_descriptor_tmp.197
+__block_descriptor_tmp.206
+__block_descriptor_tmp.209
+__block_descriptor_tmp.215
+__block_descriptor_tmp.218
+__block_descriptor_tmp.221
+__block_descriptor_tmp.224
+__block_descriptor_tmp.227
+__block_descriptor_tmp.230
+__block_descriptor_tmp.236
+OBJC_CLASS_NAME_.237
+OBJC_METH_VAR_NAME_.238
+l_OBJC_$_CLASS_METHODS_TMMemoryCache
+l_OBJC_METACLASS_RO_$_TMMemoryCache
+OBJC_CLASS_NAME_.239
+OBJC_METH_VAR_TYPE_.240
+OBJC_METH_VAR_TYPE_.241
+OBJC_METH_VAR_TYPE_.242
+OBJC_METH_VAR_TYPE_.243
+OBJC_METH_VAR_NAME_.244
+OBJC_METH_VAR_TYPE_.245
+OBJC_METH_VAR_TYPE_.246
+OBJC_METH_VAR_TYPE_.247
+OBJC_METH_VAR_TYPE_.248
+OBJC_METH_VAR_TYPE_.249
+OBJC_METH_VAR_TYPE_.250
+OBJC_METH_VAR_TYPE_.251
+OBJC_METH_VAR_TYPE_.252
+OBJC_METH_VAR_NAME_.253
+OBJC_METH_VAR_NAME_.254
+OBJC_METH_VAR_NAME_.255
+OBJC_METH_VAR_NAME_.256
+OBJC_METH_VAR_NAME_.257
+OBJC_METH_VAR_TYPE_.258
+OBJC_METH_VAR_NAME_.259
+OBJC_METH_VAR_NAME_.260
+OBJC_METH_VAR_NAME_.261
+OBJC_METH_VAR_NAME_.262
+OBJC_METH_VAR_NAME_.263
+OBJC_METH_VAR_NAME_.264
+OBJC_METH_VAR_NAME_.265
+OBJC_METH_VAR_NAME_.266
+OBJC_METH_VAR_NAME_.267
+OBJC_METH_VAR_NAME_.268
+OBJC_METH_VAR_NAME_.269
+OBJC_METH_VAR_NAME_.270
+OBJC_METH_VAR_NAME_.271
+OBJC_METH_VAR_NAME_.272
+OBJC_METH_VAR_NAME_.273
+OBJC_METH_VAR_NAME_.274
+OBJC_METH_VAR_TYPE_.275
+OBJC_METH_VAR_NAME_.276
+OBJC_METH_VAR_TYPE_.277
+OBJC_METH_VAR_NAME_.278
+OBJC_METH_VAR_TYPE_.279
+OBJC_METH_VAR_NAME_.280
+OBJC_METH_VAR_NAME_.281
+OBJC_METH_VAR_NAME_.282
+OBJC_METH_VAR_NAME_.283
+OBJC_METH_VAR_NAME_.284
+OBJC_METH_VAR_TYPE_.285
+OBJC_METH_VAR_NAME_.286
+OBJC_METH_VAR_TYPE_.287
+OBJC_METH_VAR_NAME_.288
+OBJC_METH_VAR_NAME_.289
+OBJC_METH_VAR_NAME_.290
+OBJC_METH_VAR_NAME_.291
+OBJC_METH_VAR_NAME_.292
+OBJC_METH_VAR_NAME_.293
+OBJC_METH_VAR_NAME_.294
+l_OBJC_$_INSTANCE_METHODS_TMMemoryCache
+OBJC_METH_VAR_NAME_.295
+OBJC_METH_VAR_TYPE_.296
+OBJC_METH_VAR_NAME_.297
+OBJC_METH_VAR_NAME_.300
+OBJC_METH_VAR_TYPE_.301
+OBJC_METH_VAR_NAME_.302
+OBJC_METH_VAR_NAME_.303
+OBJC_METH_VAR_NAME_.305
+OBJC_METH_VAR_NAME_.307
+OBJC_METH_VAR_NAME_.308
+OBJC_METH_VAR_NAME_.309
+OBJC_METH_VAR_NAME_.310
+OBJC_METH_VAR_NAME_.311
+OBJC_METH_VAR_NAME_.312
+OBJC_METH_VAR_NAME_.314
+OBJC_METH_VAR_TYPE_.315
+OBJC_METH_VAR_NAME_.316
+l_OBJC_$_INSTANCE_VARIABLES_TMMemoryCache
+OBJC_PROP_NAME_ATTR_.318
+OBJC_PROP_NAME_ATTR_.319
+OBJC_PROP_NAME_ATTR_.320
+OBJC_PROP_NAME_ATTR_.321
+OBJC_PROP_NAME_ATTR_.322
+OBJC_PROP_NAME_ATTR_.323
+OBJC_PROP_NAME_ATTR_.324
+OBJC_PROP_NAME_ATTR_.325
+OBJC_PROP_NAME_ATTR_.326
+OBJC_PROP_NAME_ATTR_.327
+OBJC_PROP_NAME_ATTR_.328
+OBJC_PROP_NAME_ATTR_.329
+OBJC_PROP_NAME_ATTR_.330
+OBJC_PROP_NAME_ATTR_.331
+OBJC_PROP_NAME_ATTR_.332
+OBJC_PROP_NAME_ATTR_.333
+OBJC_PROP_NAME_ATTR_.334
+OBJC_PROP_NAME_ATTR_.335
+OBJC_PROP_NAME_ATTR_.336
+OBJC_PROP_NAME_ATTR_.337
+OBJC_PROP_NAME_ATTR_.338
+OBJC_PROP_NAME_ATTR_.339
+OBJC_PROP_NAME_ATTR_.340
+OBJC_PROP_NAME_ATTR_.341
+OBJC_PROP_NAME_ATTR_.342
+OBJC_PROP_NAME_ATTR_.343
+OBJC_PROP_NAME_ATTR_.344
+OBJC_PROP_NAME_ATTR_.345
+OBJC_PROP_NAME_ATTR_.346
+OBJC_PROP_NAME_ATTR_.347
+OBJC_PROP_NAME_ATTR_.348
+OBJC_PROP_NAME_ATTR_.349
+OBJC_PROP_NAME_ATTR_.350
+l_OBJC_$_PROP_LIST_TMMemoryCache
+l_OBJC_CLASS_RO_$_TMMemoryCache
+-[TMMemoryCache .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMMemoryCache.m
+-[TMMemoryCache setCosts:]
+-[TMMemoryCache costs]
+-[TMMemoryCache setDates:]
+-[TMMemoryCache dates]
+-[TMMemoryCache setDictionary:]
+-[TMMemoryCache dictionary]
+-[TMMemoryCache setRemoveAllObjectsOnEnteringBackground:]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/TMCache/TMCache/TMMemoryCache.h
+-[TMMemoryCache removeAllObjectsOnEnteringBackground]
+-[TMMemoryCache setRemoveAllObjectsOnMemoryWarning:]
+-[TMMemoryCache removeAllObjectsOnMemoryWarning]
+-[TMMemoryCache setQueue:]
+-[TMMemoryCache queue]
+-[TMMemoryCache totalCost]
+-[TMMemoryCache setCostLimit:]
+-[TMMemoryCache costLimit]
+-[TMMemoryCache setAgeLimit:]
+-[TMMemoryCache ageLimit]
+-[TMMemoryCache setDidEnterBackgroundBlock:]
+-[TMMemoryCache didEnterBackgroundBlock]
+-[TMMemoryCache setDidReceiveMemoryWarningBlock:]
+-[TMMemoryCache didReceiveMemoryWarningBlock]
+-[TMMemoryCache setDidRemoveAllObjectsBlock:]
+-[TMMemoryCache didRemoveAllObjectsBlock]
+-[TMMemoryCache setDidRemoveObjectBlock:]
+-[TMMemoryCache didRemoveObjectBlock]
+-[TMMemoryCache setDidAddObjectBlock:]
+-[TMMemoryCache didAddObjectBlock]
+-[TMMemoryCache setWillRemoveAllObjectsBlock:]
+-[TMMemoryCache willRemoveAllObjectsBlock]
+-[TMMemoryCache setWillRemoveObjectBlock:]
+-[TMMemoryCache willRemoveObjectBlock]
+-[TMMemoryCache setWillAddObjectBlock:]
+-[TMMemoryCache willAddObjectBlock]
+-[TMMemoryCache enumerateObjectsWithBlock:]
+-[TMMemoryCache removeAllObjects]
+-[TMMemoryCache trimToCostByDate:]
+-[TMMemoryCache trimToCost:]
+-[TMMemoryCache trimToDate:]
+-[TMMemoryCache removeObjectForKey:]
+-[TMMemoryCache setObject:forKey:withCost:]
+-[TMMemoryCache setObject:forKey:]
+-[TMMemoryCache objectForKey:]
+-[TMMemoryCache enumerateObjectsWithBlock:completionBlock:]
+-[TMMemoryCache removeAllObjects:]
+-[TMMemoryCache trimToCostByDate:block:]
+-[TMMemoryCache trimToCost:block:]
+-[TMMemoryCache trimToDate:block:]
+-[TMMemoryCache removeObjectForKey:block:]
+-[TMMemoryCache setObject:forKey:withCost:block:]
+-[TMMemoryCache setObject:forKey:block:]
+-[TMMemoryCache objectForKey:block:]
+-[TMMemoryCache trimToAgeLimitRecursively]
+-[TMMemoryCache trimToCostLimitByDate:]
+-[TMMemoryCache trimToCostLimit:]
+-[TMMemoryCache trimMemoryToDate:]
+-[TMMemoryCache removeObjectAndExecuteBlocksForKey:]
+-[TMMemoryCache handleApplicationBackgrounding]
+-[TMMemoryCache handleMemoryWarning]
++[TMMemoryCache sharedCache]
+-[TMMemoryCache init]
+-[TMMemoryCache dealloc]
+/Users/ravensmith/Library/Developer/Xcode/DerivedData/TMCache-aldicemzaipjssftqniuzswqiebb/Build/Intermediates/TMCache.build/Release-iphoneos/iOS.build/DerivedSources/TMCache_vers.c
+_ZL15__ARCLite__loadv
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+OBJC_METH_VAR_TYPE_.6
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+.str.7
+.str.8
+_ZL30NSUndoManagerProxy_targetClass
+.str.12
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+_ZL22NSConstantString_class
+.str.20
+_ZL14NSString_class
+.str.21
+OBJC_METH_VAR_NAME_.22
+OBJC_SELECTOR_REFERENCES_.23
+_ZL36original_NSKKMS_fastIndexForKnownKey
+_ZL27original_NSKKMS_indexForKey
+.str.26
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+OBJC_METH_VAR_NAME_.29
+OBJC_SELECTOR_REFERENCES_.30
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str.31
+.str.32
+_ZL31original_objc_allocateClassPair
+.str.33
+_ZL31original_object_getIndexedIvars
+.str.34
+_ZL22original_objc_getClass
+.str.35
+_ZL26original_objc_getMetaClass
+.str.36
+_ZL30original_objc_getRequiredClass
+.str.37
+_ZL25original_objc_lookUpClass
+.str.38
+_ZL25original_objc_getProtocol
+.str.39
+_ZL22original_class_getName
+.str.40
+_ZL25original_protocol_getName
+.str.41
+_ZL36original_objc_copyClassNamesForImage
+.str.46
+.str.47
+.str.48
+.str.49
+.str.51
+.str.53
+_ZL12demangleLock
+_ZL9Demangled
+.str.55
+.str.56
+.str.57
+OBJC_METH_VAR_NAME_.62
+OBJC_SELECTOR_REFERENCES_.63
+OBJC_METH_VAR_NAME_.64
+OBJC_SELECTOR_REFERENCES_.65
+OBJC_METH_VAR_NAME_.66
+OBJC_SELECTOR_REFERENCES_.67
+OBJC_METH_VAR_NAME_.70
+OBJC_SELECTOR_REFERENCES_.71
+Apple LLVM version 7.3.0 (clang-703.0.21)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -mlinker-version=264.3
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_lazy_pointers
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+data
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/objc/objc-auto.h
+keyedGetter
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+install_subscripting
+install_autoreleasepool
+__ARCLite__load

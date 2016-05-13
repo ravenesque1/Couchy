@@ -1,5 +1,0 @@
-github "AFNetworking/AFNetworking" "3.1.0"
-github "intuit/LocationManager" "v4.2.0"
-github "tumblr/TMCache" "2.1.0"
-github "couchbase/couchbase-lite-ios" "0987c27d239a5c30ccb5a9c8798db22eac5879b8"
-git "Couchy" "v1.1"
