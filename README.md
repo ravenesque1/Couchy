@@ -1,8 +1,7 @@
-![alt text](https://pixabay.com/static/uploads/photo/2013/07/12/13/58/settee-147701_960_720.png "don't look into it. it's just a couch.")
+<a href="url"><img src="https://pixabay.com/static/uploads/photo/2013/07/12/13/58/settee-147701_960_720.png" align="center" height="360"></a>
 
 
 # Couchy [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/ravenesque1/Couchy)
-***
 
 #### Welcome to Couchy!
 
