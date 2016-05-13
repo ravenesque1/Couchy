@@ -34,4 +34,6 @@ To use Couchy:
 
 3. Use the updates. I currently use `carthage update --platform iOS` as the update command, but this would change if you have multiple platforms (like WatchOS or tvOS). Furthermore, this is a very slow update command, which I'm still looking to optimize.
 
+**Final Note**: This _is_ just a work in progress. The script is likely to work fine, but always be careful running shell scripts. Also, I'm still working out kinds, so as mentioned, carthage updates are very slow. And because FRAMEWORKS are being copied over, git pushes can be slow too. 
+
 Enjoy!
