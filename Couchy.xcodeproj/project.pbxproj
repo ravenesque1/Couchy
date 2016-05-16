@@ -17,7 +17,7 @@
 		03A2E7301CE4EBC800496084 /* TMCache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E72C1CE4EBC800496084 /* TMCache.framework */; };
 		03A2E7341CE4F2E300496084 /* ParentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7321CE4F2E300496084 /* ParentViewController.h */; };
 		03A2E7351CE4F2E300496084 /* ParentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7331CE4F2E300496084 /* ParentViewController.m */; };
-		03AE8D821CEA2CAD00CC7C58 /* CouchyController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03AE8D801CEA2CAD00CC7C58 /* CouchyController.h */; };
+		03AE8D821CEA2CAD00CC7C58 /* CouchyController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03AE8D801CEA2CAD00CC7C58 /* CouchyController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03AE8D831CEA2CAD00CC7C58 /* CouchyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03AE8D811CEA2CAD00CC7C58 /* CouchyController.m */; };
 /* End PBXBuildFile section */
 
