@@ -17,30 +17,10 @@
 
 
 -(void)setup {
-    self.name = [UILabel new];
-    self.name.text = @"Couchy v1.1";
+    self.name = [[UILabel alloc] initWithFrame:self.view.frame];
+    self.name.text = @"Demo of Couchy v1.1";
     [self.name sizeToFit];
     [self.view addSubview:self.name];
-    
-    self.view.translatesAutoresizingMaskIntoConstraints = false;
-    
-    NSLayoutConstraint *hConstraint = [NSLayoutConstraint constraintWithItem:self.name
-                                                                   attribute:NSLayoutAttributeCenterX
-                                                                   relatedBy:NSLayoutRelationEqual
-                                                                      toItem:self.view
-                                                                   attribute:NSLayoutAttributeCenterX
-                                                                  multiplier:1.0
-                                                                    constant:0];
-    
-    NSLayoutConstraint *vConstraint = [NSLayoutConstraint constraintWithItem:self.name
-                                                                   attribute:NSLayoutAttributeCenterY
-                                                                   relatedBy:NSLayoutRelationEqual
-                                                                      toItem:self.view
-                                                                   attribute:NSLayoutAttributeCenterY
-                                                                  multiplier:1.0
-                                                                    constant:0];
-    
-    [self.view addConstraints:@[hConstraint, vConstraint]];
 }
 
 @end
