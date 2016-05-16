@@ -22,6 +22,8 @@
     [self.name sizeToFit];
     [self.view addSubview:self.name];
     
+    self.view.translatesAutoresizingMaskIntoConstraints = false;
+    
     NSLayoutConstraint *hConstraint = [NSLayoutConstraint constraintWithItem:self.name
                                                                    attribute:NSLayoutAttributeCenterX
                                                                    relatedBy:NSLayoutRelationEqual
