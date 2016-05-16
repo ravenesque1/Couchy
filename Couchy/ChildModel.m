@@ -6,7 +6,7 @@
 //  Copyright © 2016 Raven Smith. All rights reserved.
 //
 
-#import "ChildView.h"
+#import "ChildModel.h"
 
 @implementation ChildModel
 

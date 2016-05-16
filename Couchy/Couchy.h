@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Couchy/ChildView.h>
+#import <Couchy/ChildModel.h>
 #import <Couchy/CouchyController.h>
 
 //! Project version number for Couchy.

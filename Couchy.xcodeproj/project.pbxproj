@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		03A2E71C1CE4E52100496084 /* Couchy.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E71B1CE4E52100496084 /* Couchy.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		03A2E7251CE4E56A00496084 /* ChildView.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7231CE4E56A00496084 /* ChildView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		03A2E7261CE4E56A00496084 /* ChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7241CE4E56A00496084 /* ChildView.m */; };
+		03A2E7251CE4E56A00496084 /* ChildModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7231CE4E56A00496084 /* ChildModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		03A2E7261CE4E56A00496084 /* ChildModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7241CE4E56A00496084 /* ChildModel.m */; };
 		03A2E7281CE4E64F00496084 /* ParentContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7271CE4E64F00496084 /* ParentContainer.swift */; };
 		03A2E72D1CE4EBC800496084 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E7291CE4EBC800496084 /* AFNetworking.framework */; };
 		03A2E72E1CE4EBC800496084 /* CouchbaseLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A2E72A1CE4EBC800496084 /* CouchbaseLite.framework */; };
@@ -19,14 +19,15 @@
 		03A2E7351CE4F2E300496084 /* ParentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7331CE4F2E300496084 /* ParentViewController.m */; };
 		03AE8D821CEA2CAD00CC7C58 /* CouchyController.h in Headers */ = {isa = PBXBuildFile; fileRef = 03AE8D801CEA2CAD00CC7C58 /* CouchyController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03AE8D831CEA2CAD00CC7C58 /* CouchyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03AE8D811CEA2CAD00CC7C58 /* CouchyController.m */; };
+		03AE8D851CEA6E1700CC7C58 /* Umbrella.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AE8D841CEA6E1700CC7C58 /* Umbrella.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		03A2E7181CE4E52100496084 /* Couchy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Couchy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A2E71B1CE4E52100496084 /* Couchy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Couchy.h; sourceTree = "<group>"; };
 		03A2E71D1CE4E52100496084 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		03A2E7231CE4E56A00496084 /* ChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildView.h; sourceTree = "<group>"; };
-		03A2E7241CE4E56A00496084 /* ChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildView.m; sourceTree = "<group>"; };
+		03A2E7231CE4E56A00496084 /* ChildModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildModel.h; sourceTree = "<group>"; };
+		03A2E7241CE4E56A00496084 /* ChildModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildModel.m; sourceTree = "<group>"; };
 		03A2E7271CE4E64F00496084 /* ParentContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentContainer.swift; sourceTree = "<group>"; };
 		03A2E7291CE4EBC800496084 /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = Carthage/Build/iOS/AFNetworking.framework; sourceTree = "<group>"; };
 		03A2E72A1CE4EBC800496084 /* CouchbaseLite.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CouchbaseLite.framework; path = Carthage/Build/iOS/CouchbaseLite.framework; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		03A2E7331CE4F2E300496084 /* ParentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParentViewController.m; sourceTree = "<group>"; };
 		03AE8D801CEA2CAD00CC7C58 /* CouchyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CouchyController.h; sourceTree = "<group>"; };
 		03AE8D811CEA2CAD00CC7C58 /* CouchyController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CouchyController.m; sourceTree = "<group>"; };
+		03AE8D841CEA6E1700CC7C58 /* Umbrella.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Umbrella.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,13 +80,14 @@
 			children = (
 				03A2E71B1CE4E52100496084 /* Couchy.h */,
 				03A2E71D1CE4E52100496084 /* Info.plist */,
-				03A2E7231CE4E56A00496084 /* ChildView.h */,
-				03A2E7241CE4E56A00496084 /* ChildView.m */,
+				03A2E7231CE4E56A00496084 /* ChildModel.h */,
+				03A2E7241CE4E56A00496084 /* ChildModel.m */,
 				03A2E7271CE4E64F00496084 /* ParentContainer.swift */,
 				03A2E7321CE4F2E300496084 /* ParentViewController.h */,
 				03A2E7331CE4F2E300496084 /* ParentViewController.m */,
 				03AE8D801CEA2CAD00CC7C58 /* CouchyController.h */,
 				03AE8D811CEA2CAD00CC7C58 /* CouchyController.m */,
+				03AE8D841CEA6E1700CC7C58 /* Umbrella.swift */,
 			);
 			path = Couchy;
 			sourceTree = "<group>";
@@ -96,7 +99,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03A2E7251CE4E56A00496084 /* ChildView.h in Headers */,
+				03A2E7251CE4E56A00496084 /* ChildModel.h in Headers */,
 				03A2E7341CE4F2E300496084 /* ParentViewController.h in Headers */,
 				03A2E71C1CE4E52100496084 /* Couchy.h in Headers */,
 				03AE8D821CEA2CAD00CC7C58 /* CouchyController.h in Headers */,
@@ -192,7 +195,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				03AE8D831CEA2CAD00CC7C58 /* CouchyController.m in Sources */,
-				03A2E7261CE4E56A00496084 /* ChildView.m in Sources */,
+				03AE8D851CEA6E1700CC7C58 /* Umbrella.swift in Sources */,
+				03A2E7261CE4E56A00496084 /* ChildModel.m in Sources */,
 				03A2E7281CE4E64F00496084 /* ParentContainer.swift in Sources */,
 				03A2E7351CE4F2E300496084 /* ParentViewController.m in Sources */,
 			);
