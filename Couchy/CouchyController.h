@@ -11,5 +11,6 @@
 @interface CouchyController : UIViewController
 
 @property (strong, nonatomic) UILabel* name;
+@property (strong, nonatomic) NSString* couchyID;
 
 @end
