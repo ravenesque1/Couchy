@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		035D097A1CEB924C00C81DC3 /* matrix.png in Resources */ = {isa = PBXBuildFile; fileRef = 035D09791CEB924C00C81DC3 /* matrix.png */; };
 		03A2E71C1CE4E52100496084 /* Couchy.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E71B1CE4E52100496084 /* Couchy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03A2E7251CE4E56A00496084 /* ChildModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A2E7231CE4E56A00496084 /* ChildModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03A2E7261CE4E56A00496084 /* ChildModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 03A2E7241CE4E56A00496084 /* ChildModel.m */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		035D09791CEB924C00C81DC3 /* matrix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = matrix.png; sourceTree = "<group>"; };
 		03A2E7181CE4E52100496084 /* Couchy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Couchy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A2E71B1CE4E52100496084 /* Couchy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Couchy.h; sourceTree = "<group>"; };
 		03A2E71D1CE4E52100496084 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,6 +57,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		035D09761CEB906B00C81DC3 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				035D09791CEB924C00C81DC3 /* matrix.png */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
 		03A2E70E1CE4E52100496084 = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +88,7 @@
 		03A2E71A1CE4E52100496084 /* Couchy */ = {
 			isa = PBXGroup;
 			children = (
+				035D09761CEB906B00C81DC3 /* Assets */,
 				03A2E71B1CE4E52100496084 /* Couchy.h */,
 				03A2E71D1CE4E52100496084 /* Info.plist */,
 				03A2E7231CE4E56A00496084 /* ChildModel.h */,
@@ -164,6 +175,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				035D097A1CEB924C00C81DC3 /* matrix.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
