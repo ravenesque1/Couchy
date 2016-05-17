@@ -18,7 +18,7 @@
 
 -(void)setup {
     self.name = [UILabel new];
-    self.name.text = @"Demo of Couchy v1.1";
+    self.name.text = @"Demo of Couchy v1.2";
     self.name.textColor = [UIColor greenColor];
     [self.name sizeToFit];
     [self.view addSubview:self.name];
