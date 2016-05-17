@@ -42,8 +42,9 @@
                                                               constant:0.f];
 
     [self.view addConstraints:@[horiz, vert]];
+    UIImage *img = [UIImage imageNamed:@"matrix" inBundle:[NSBundle bundleForClass:[self class]] compatibleWithTraitCollection:[UITraitCollection traitCollectionWithDisplayScale:[UIScreen mainScreen].scale]];
     
-    UIImageView* imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"Couchy.framework/matrix"]];
+    UIImageView* imgView = [[UIImageView alloc] initWithImage:img];
     imgView.frame = self.view.frame;
     [self.view addSubview:imgView];
     
