@@ -1,0 +1,10 @@
+framework module Couchy {
+  umbrella header "Couchy.h"
+
+  export *
+  module * { export * }
+}
+
+module Couchy.Swift {
+    header "Couchy-Swift.h"
+}

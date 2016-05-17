@@ -1,0 +1,235 @@
+BCSymbolMap Version: 1.0
+-[CouchyController viewDidLoad]
+-[CouchyController setup]
+-[CouchyController name]
+-[CouchyController setName:]
+-[CouchyController couchyID]
+-[CouchyController setCouchyID:]
+-[CouchyController .cxx_destruct]
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_CLASSLIST_REFERENCES_$_.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+OBJC_METH_VAR_NAME_.10
+OBJC_SELECTOR_REFERENCES_.11
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_.14
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+OBJC_METH_VAR_NAME_.18
+OBJC_SELECTOR_REFERENCES_.19
+OBJC_METH_VAR_NAME_.20
+OBJC_SELECTOR_REFERENCES_.21
+OBJC_CLASSLIST_REFERENCES_$_.22
+OBJC_METH_VAR_NAME_.23
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_CLASSLIST_REFERENCES_$_.25
+OBJC_METH_VAR_NAME_.26
+OBJC_SELECTOR_REFERENCES_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_SELECTOR_REFERENCES_.29
+OBJC_IVAR_$_CouchyController._name
+OBJC_IVAR_$_CouchyController._couchyID
+OBJC_CLASS_NAME_
+l_OBJC_METACLASS_RO_$_CouchyController
+OBJC_CLASS_NAME_.30
+OBJC_METH_VAR_NAME_.31
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_NAME_.32
+OBJC_METH_VAR_TYPE_.33
+OBJC_METH_VAR_TYPE_.34
+OBJC_METH_VAR_NAME_.35
+OBJC_METH_VAR_NAME_.36
+l_OBJC_$_INSTANCE_METHODS_CouchyController
+OBJC_METH_VAR_NAME_.37
+OBJC_METH_VAR_TYPE_.38
+OBJC_METH_VAR_NAME_.39
+OBJC_METH_VAR_TYPE_.40
+l_OBJC_$_INSTANCE_VARIABLES_CouchyController
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.41
+OBJC_PROP_NAME_ATTR_.42
+OBJC_PROP_NAME_ATTR_.43
+l_OBJC_$_PROP_LIST_CouchyController
+l_OBJC_CLASS_RO_$_CouchyController
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.29)
+-[CouchyController .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/CouchyController.m
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy
+-[CouchyController setCouchyID:]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/CouchyController.h
+-[CouchyController couchyID]
+-[CouchyController setName:]
+-[CouchyController name]
+-[CouchyController setup]
+-[CouchyController viewDidLoad]
+-[ChildModel contents]
+-[ChildModel setContents:]
+-[ChildModel .cxx_destruct]
+OBJC_IVAR_$_ChildModel.contents
+l_OBJC_METACLASS_RO_$_ChildModel
+OBJC_CLASS_NAME_.1
+OBJC_METH_VAR_NAME_.2
+OBJC_METH_VAR_TYPE_.3
+OBJC_METH_VAR_NAME_.4
+OBJC_METH_VAR_TYPE_.5
+l_OBJC_$_INSTANCE_METHODS_ChildModel
+OBJC_METH_VAR_TYPE_.6
+l_OBJC_$_INSTANCE_VARIABLES_ChildModel
+OBJC_PROP_NAME_ATTR_.7
+l_OBJC_$_PROP_LIST_ChildModel
+l_OBJC_CLASS_RO_$_ChildModel
+-[ChildModel .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ChildModel.m
+-[ChildModel setContents:]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ChildModel.h
+-[ChildModel contents]
+-[ParentViewController viewDidLoad]
+-[ParentViewController model]
+-[ParentViewController setModel:]
+-[ParentViewController .cxx_destruct]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_IVAR_$_ParentViewController._model
+l_OBJC_METACLASS_RO_$_ParentViewController
+OBJC_CLASS_NAME_.5
+OBJC_METH_VAR_NAME_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_METH_VAR_TYPE_.8
+OBJC_METH_VAR_TYPE_.9
+l_OBJC_$_INSTANCE_METHODS_ParentViewController
+OBJC_METH_VAR_TYPE_.11
+l_OBJC_$_INSTANCE_VARIABLES_ParentViewController
+OBJC_PROP_NAME_ATTR_.12
+l_OBJC_$_PROP_LIST_ParentViewController
+l_OBJC_CLASS_RO_$_ParentViewController
+-[ParentViewController .cxx_destruct]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ParentViewController.m
+-[ParentViewController setModel:]
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ParentViewController.h
+-[ParentViewController model]
+-[ParentViewController viewDidLoad]
+_TToFC6Couchy15MakesReferencesg9containerGSqCS_15ParentContainer_
+_TToFC6Couchy15MakesReferencess9containerGSqCS_15ParentContainer_
+_TToFC6Couchy15MakesReferencesg5childGSqCSo10ChildModel_
+_TToFC6Couchy15MakesReferencess5childGSqCSo10ChildModel_
+_TToFC6Couchy15MakesReferencesg10controllerGSqCSo16CouchyController_
+_TToFC6Couchy15MakesReferencess10controllerGSqCSo16CouchyController_
+_TToFC6Couchy15MakesReferencescfT_S0_
+get_field_types_MakesReferences
+L_selector_data(init)
+L_selector(init)
+L_selector_data(allocWithZone:)
+L_selector(allocWithZone:)
+L_selector_data(dealloc)
+L_selector(dealloc)
+L_selector_data(container)
+L_selector_data(setContainer:)
+L_selector_data(child)
+L_selector_data(setChild:)
+L_selector_data(controller)
+L_selector_data(setController:)
+L_selector_data(.cxx_destruct)
+_METACLASS_DATA__TtC6Couchy15MakesReferences
+_INSTANCE_METHODS__TtC6Couchy15MakesReferences
+_IVARS__TtC6Couchy15MakesReferences
+_PROPERTIES__TtC6Couchy15MakesReferences
+_DATA__TtC6Couchy15MakesReferences
+_TMfC6Couchy15MakesReferences
+_swift_FORCE_LOAD_$_swiftUIKit_$_Couchy
+_swift_FORCE_LOAD_$_swiftCoreImage_$_Couchy
+_swift_FORCE_LOAD_$_swiftDarwin_$_Couchy
+_swift_FORCE_LOAD_$_swiftCoreGraphics_$_Couchy
+_swift_FORCE_LOAD_$_swiftDispatch_$_Couchy
+_swift_FORCE_LOAD_$_swiftObjectiveC_$_Couchy
+_swift_FORCE_LOAD_$_swiftFoundation_$_Couchy
+field_type_vector_MakesReferences
+_TMLGSqC6Couchy15ParentContainer_
+_TMLGSqCSo10ChildModel_
+_TMLCSo10ChildModel
+_TMLGSqCSo16CouchyController_
+_TMLCSo16CouchyController
+objc_classes
+-emit-bc -primary-file /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/Umbrella.swift /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ParentContainer.swift -target arm64-apple-ios9.3 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk -I /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos -F /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos -F /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Carthage/Build/iOS -g -import-underlying-module -module-cache-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-generated-files.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-own-target-headers.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-project-headers.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos/include -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/DerivedSources/arm64 -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy -emit-module-doc-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/Umbrella~partial.swiftdoc -O -module-name Couchy -emit-module-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/Umbrella~partial.swiftmodule -serialize-diagnostics-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/Umbrella.dia -emit-dependencies-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/Umbrella.d -o /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/Umbrella.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)
+_TMaCSo16CouchyController
+Umbrella.swift
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy
+_TMaGSqCSo16CouchyController_
+_TMaCSo10ChildModel
+_TMaGSqCSo10ChildModel_
+_TMaGSqC6Couchy15ParentContainer_
+_TMaC6Couchy15MakesReferences
+controller.materialize
+child.materialize
+container.materialize
+deinit
+init
+controller.set
+controller.get
+child.set
+child.get
+container.set
+container.get
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/Umbrella.swift
+_TToFC6Couchy15ParentContainerg7managerCSo10CBLManager
+_TToFC6Couchy15ParentContainers7managerCSo10CBLManager
+_TToFC6Couchy15ParentContainerg8databaseGSqCSo11CBLDatabase_
+_TToFC6Couchy15ParentContainers8databaseGSqCSo11CBLDatabase_
+_TToFC6Couchy15ParentContainerg5childCSo10ChildModel
+_TToFC6Couchy15ParentContainers5childCSo10ChildModel
+_TToFC6Couchy15ParentContainercfT5frameVSC6CGRect_S0_
+_TToFC6Couchy15ParentContainercfT5coderCSo7NSCoder_GSqS0__
+get_field_types_ParentContainer
+_TMLCSo10CBLManager
+L_selector_data(sharedInstance)
+L_selector(sharedInstance)
+L_selector_data(databaseNamed:error:)
+L_selector(databaseNamed:error:)
+L_selector_data(modelForNewDocumentInDatabase:)
+L_selector(modelForNewDocumentInDatabase:)
+L_selector_data(initWithFrame:)
+L_selector(initWithFrame:)
+L_selector_data(manager)
+L_selector_data(setManager:)
+L_selector_data(database)
+L_selector_data(setDatabase:)
+L_selector_data(initWithCoder:)
+_METACLASS_DATA__TtC6Couchy15ParentContainer
+_INSTANCE_METHODS__TtC6Couchy15ParentContainer
+_IVARS__TtC6Couchy15ParentContainer
+_PROPERTIES__TtC6Couchy15ParentContainer
+_DATA__TtC6Couchy15ParentContainer
+_TMfC6Couchy15ParentContainer
+field_type_vector_ParentContainer
+_TMLGSqCSo11CBLDatabase_
+_TMLCSo11CBLDatabase
+-emit-bc /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/Umbrella.swift -primary-file /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ParentContainer.swift -target arm64-apple-ios9.3 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk -I /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos -F /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos -F /Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Carthage/Build/iOS -g -import-underlying-module -module-cache-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-generated-files.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-own-target-headers.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Couchy-project-headers.hmap -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Products/Release-iphoneos/include -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/DerivedSources/arm64 -Xcc -I/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy -emit-module-doc-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/ParentContainer~partial.swiftdoc -O -module-name Couchy -emit-module-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/ParentContainer~partial.swiftmodule -serialize-diagnostics-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/ParentContainer.dia -emit-dependencies-path /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/ParentContainer.d -o /Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/Objects-normal/arm64/ParentContainer.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+ParentContainer.swift
+_TMaCSo11CBLDatabase
+_TMaGSqCSo11CBLDatabase_
+_TMaC6Couchy15ParentContainer
+database.materialize
+manager.materialize
+_TFSSCfT21_builtinStringLiteralBp8byteSizeBw7isASCIIBi1__SS
+_TTSf4n_n_n_d___TFSSCfT21_builtinStringLiteralBp8byteSizeBw7isASCIIBi1__SS
+_TMaCSo10CBLManager
+database.set
+database.get
+manager.set
+manager.get
+/Users/ravensmith/Documents/wallaby/projects/couchy-suite/Couchy/core/Carthage/Checkouts/Couchy/Couchy/ParentContainer.swift
+/Users/ravensmith/Library/Developer/Xcode/DerivedData/Couchy-euwcjfwkcckdvthdchowfsgkyhgb/Build/Intermediates/Couchy.build/Release-iphoneos/Couchy.build/DerivedSources/Couchy_vers.c

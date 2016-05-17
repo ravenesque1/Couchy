@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <Couchy/Couchy.h>
 
 @interface AppDelegate ()
 
@@ -17,8 +18,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    self.container = [ParentContainer new];
-//    self.container.child
+    self.window.rootViewController = [CouchyController new];
+    
     return YES;
 }
 

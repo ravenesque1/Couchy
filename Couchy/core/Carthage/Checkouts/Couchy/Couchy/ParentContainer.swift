@@ -11,11 +11,11 @@ import TMCache
 
 @objc public class ParentContainer: UIView {
     
-    var manager: CBLManager
-    var database: CBLDatabase?
-    var child: ChildModel
+    public var manager: CBLManager
+    public var database: CBLDatabase?
+    public var child: ChildModel
     
-    override init(frame: CGRect)  {
+    override public init(frame: CGRect)  {
         
         manager = CBLManager.sharedInstance()
         try! database = self.manager.databaseNamed("Sample")

@@ -2,9 +2,15 @@
 
 cd ../core
 echo $1 > "../core/Cartfile"
+rm Cartfile.resolved
+rm -rf Carthage/
 echo "✅	Cartfile updated."
+
+#carthage uses semantic versioning, so clear cache (for now)
+rm -rf ~/Library/Caches/org.carthage.CarthageKit
+
 #time sink--comment out below line if DEBUG
-carthage update --platform iOS
+carthage update Couchy --platform iOS 
 
 #update xcodeprojects
 cd ../..
@@ -71,3 +77,19 @@ end
 
 
 EORUBY
+
+
+# Update source, but save update script
+
+echo "Updating Couchy..."
+
+cd Couchy
+
+mkdir tmp
+cp source/upd.sh tmp
+rm -rf source/*
+cp -r core/Carthage/Checkouts/Couchy/* source
+cp tmp/* source
+rm -rf tmp
+
+echo "✅	Couchy updated to version ${3} from ${2}."

@@ -10,6 +10,19 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>035D09771CEB915200C81DC3</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>image.png</string>
+			<key>name</key>
+			<string>matrix.png</string>
+			<key>path</key>
+			<string>../../../../../../Downloads/matrix.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>03A2E7361CE4F47600496084</key>
 		<dict>
 			<key>children</key>
@@ -114,11 +127,11 @@
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>B1188341F9373F37FA49CCB5</string>
-				<string>141499DF173BE8570F6DB810</string>
-				<string>1A6E16241FFB836FE1122780</string>
-				<string>F29D002003E28275420F5DB0</string>
-				<string>AB914FF280127A3B637532ED</string>
+				<string>9E13ABE017634920E8B009F4</string>
+				<string>CC130BAD9C5ACDBBB017D8F2</string>
+				<string>33FCFDFC990FA09871F333A4</string>
+				<string>DFE0A91F8EA31984EDC4E07D</string>
+				<string>FA7C386BD80D369E67707CD1</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -197,6 +210,7 @@
 		<dict>
 			<key>children</key>
 			<array>
+				<string>035D09771CEB915200C81DC3</string>
 				<string>03A2E7451CE4F47600496084</string>
 				<string>03A2E7461CE4F47600496084</string>
 				<string>03A2E7481CE4F47600496084</string>
@@ -729,8 +743,13 @@
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
 				<string>AppIcon</string>
+				<key>EMBEDDED_CONTENT_CONTAINS_SWIFT</key>
+				<string>YES</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<string>$(inherited)</string>
+				<array>
+					<string>$(inherited)</string>
+					<string>$(SRCROOT)/../Couchy/core/Carthage/build/iOS/</string>
+				</array>
 				<key>INFOPLIST_FILE</key>
 				<string>UsesCouchy/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>
@@ -751,8 +770,13 @@
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
 				<string>AppIcon</string>
+				<key>EMBEDDED_CONTENT_CONTAINS_SWIFT</key>
+				<string>YES</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<string>$(inherited)</string>
+				<array>
+					<string>$(inherited)</string>
+					<string>$(SRCROOT)/../Couchy/core/Carthage/build/iOS/</string>
+				</array>
 				<key>INFOPLIST_FILE</key>
 				<string>UsesCouchy/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>
@@ -831,11 +855,11 @@
 			<string>10</string>
 			<key>files</key>
 			<array>
-				<string>2C6FBCA906077FF46BC87C88</string>
-				<string>AAA17AB5BCADF7D2D23BBB96</string>
-				<string>716E4B011050EE24453D146C</string>
-				<string>24E27A482BB37FA8471929F9</string>
-				<string>F3B7431BD08ADC2E3B11915D</string>
+				<string>5D6B7D4A53D605158A530045</string>
+				<string>10A552EB790A395764059622</string>
+				<string>50088F037D5FC77E3F40FC96</string>
+				<string>3E15CFE4FB1508C0EA2D3B34</string>
+				<string>186BA2AB2406F40E40FD5AF5</string>
 			</array>
 			<key>isa</key>
 			<string>PBXCopyFilesBuildPhase</string>
@@ -844,27 +868,21 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>13141EE495B5B2848E4E918F</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>INTULocationManager.framework</string>
-			<key>path</key>
-			<string>../Couchy/core/Carthage/Build/iOS/INTULocationManager.framework</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>141499DF173BE8570F6DB810</key>
+		<key>10A552EB790A395764059622</key>
 		<dict>
 			<key>fileRef</key>
-			<string>179360D5E7352A545F6B9B9E</string>
+			<string>1F0E845D7291F2C2D425C3C1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>179360D5E7352A545F6B9B9E</key>
+		<key>186BA2AB2406F40E40FD5AF5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D7BE66A7D4561133FE7C8D6E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1F0E845D7291F2C2D425C3C1</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -877,41 +895,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1A6E16241FFB836FE1122780</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C734A07E34E41D0E89BD3BFB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>24E27A482BB37FA8471929F9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>13141EE495B5B2848E4E918F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2C6FBCA906077FF46BC87C88</key>
-		<dict>
-			<key>fileRef</key>
-			<string>702A947818F9812C8CD03E30</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>328E7C6803E2D624C602396E</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>TMCache.framework</string>
-			<key>path</key>
-			<string>../Couchy/core/Carthage/Build/iOS/TMCache.framework</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>702A947818F9812C8CD03E30</key>
+		<key>2318D218185705DA14A5FB07</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -924,52 +908,48 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>716E4B011050EE24453D146C</key>
+		<key>33FCFDFC990FA09871F333A4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C734A07E34E41D0E89BD3BFB</string>
+			<string>633AD89663CCC30C5EF2AECF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>84371E0247EF614C7AB68971</key>
+		<key>3E15CFE4FB1508C0EA2D3B34</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>702A947818F9812C8CD03E30</string>
-				<string>179360D5E7352A545F6B9B9E</string>
-				<string>C734A07E34E41D0E89BD3BFB</string>
-				<string>13141EE495B5B2848E4E918F</string>
-				<string>328E7C6803E2D624C602396E</string>
-			</array>
+			<key>fileRef</key>
+			<string>4067963594C212D8E8C284AE</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4067963594C212D8E8C284AE</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>INTULocationManager.framework</string>
+			<key>path</key>
+			<string>../Couchy/core/Carthage/Build/iOS/INTULocationManager.framework</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>AAA17AB5BCADF7D2D23BBB96</key>
+		<key>50088F037D5FC77E3F40FC96</key>
 		<dict>
 			<key>fileRef</key>
-			<string>179360D5E7352A545F6B9B9E</string>
+			<string>633AD89663CCC30C5EF2AECF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>AB914FF280127A3B637532ED</key>
+		<key>5D6B7D4A53D605158A530045</key>
 		<dict>
 			<key>fileRef</key>
-			<string>328E7C6803E2D624C602396E</string>
+			<string>2318D218185705DA14A5FB07</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>B1188341F9373F37FA49CCB5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>702A947818F9812C8CD03E30</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C734A07E34E41D0E89BD3BFB</key>
+		<key>633AD89663CCC30C5EF2AECF</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -982,17 +962,61 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F29D002003E28275420F5DB0</key>
+		<key>84371E0247EF614C7AB68971</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2318D218185705DA14A5FB07</string>
+				<string>1F0E845D7291F2C2D425C3C1</string>
+				<string>633AD89663CCC30C5EF2AECF</string>
+				<string>4067963594C212D8E8C284AE</string>
+				<string>D7BE66A7D4561133FE7C8D6E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9E13ABE017634920E8B009F4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>13141EE495B5B2848E4E918F</string>
+			<string>2318D218185705DA14A5FB07</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>F3B7431BD08ADC2E3B11915D</key>
+		<key>CC130BAD9C5ACDBBB017D8F2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>328E7C6803E2D624C602396E</string>
+			<string>1F0E845D7291F2C2D425C3C1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D7BE66A7D4561133FE7C8D6E</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>TMCache.framework</string>
+			<key>path</key>
+			<string>../Couchy/core/Carthage/Build/iOS/TMCache.framework</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DFE0A91F8EA31984EDC4E07D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4067963594C212D8E8C284AE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FA7C386BD80D369E67707CD1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D7BE66A7D4561133FE7C8D6E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
