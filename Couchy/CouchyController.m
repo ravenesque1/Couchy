@@ -11,7 +11,7 @@
 @implementation CouchyController
 
 -(void)viewDidLoad {
-    self.view.backgroundColor = [UIColor orangeColor];
+    self.view.backgroundColor = [UIColor blackColor];
     [self setup];
 }
 
@@ -19,6 +19,7 @@
 -(void)setup {
     self.name = [UILabel new];
     self.name.text = @"Demo of Couchy v1.1";
+    self.name.textColor = [UIColor greenColor];
     [self.name sizeToFit];
     [self.view addSubview:self.name];
     
@@ -41,6 +42,22 @@
                                                               constant:0.f];
 
     [self.view addConstraints:@[horiz, vert]];
+    
+    UIImageView* imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"Couchy.framework/matrix"]];
+    imgView.frame = self.view.frame;
+    [self.view addSubview:imgView];
+    
+    imgView.translatesAutoresizingMaskIntoConstraints = false;
+    
+    NSLayoutConstraint *top = [NSLayoutConstraint constraintWithItem:imgView
+                                                           attribute:NSLayoutAttributeTop
+                                                           relatedBy:NSLayoutRelationEqual
+                                                              toItem:self.view
+                                                           attribute:NSLayoutAttributeTop
+                                                          multiplier:1.0
+                                                            constant:0.0];
+    
+    [self.view addConstraint:top];
 }
 
 @end
