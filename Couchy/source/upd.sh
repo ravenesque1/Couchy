@@ -10,7 +10,7 @@ echo "✅	Cartfile updated."
 rm -rf ~/Library/Caches/org.carthage.CarthageKit
 
 #time sink--comment out below line if DEBUG
-carthage update Couchy --platform iOS 
+carthage update Couchy --platform iOS
 
 #update xcodeprojects
 cd ../..

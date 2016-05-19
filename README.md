@@ -12,12 +12,19 @@ Couchy is an attempt at solving this problem by using Carthage's tagging and upd
 Why "Couchy"? Well, it uses [CouchbaseLite](http://www.couchbase.com/nosql-databases/downloads?utm_source=MKTG-SEM&utm_medium=g&utm_campaign=316854429&utm_term=%2Bcouchbase&utm_content=&gclid=CNTBg5qM2MwCFYZefgodrg0OfA). Several projects of mine depend on CouchbaseLite; this is fine, as it exists as a cocoapod. However, the cocoapod is written in Objective-C. This itself wouldn't be a problem, but not all headers included are public. This means that if your core is a cocoapod and it also depends on the couchbase cocoapod, then you can't include `.swift` files in your cocoapod if you intend to use it as a dynamic framework. 
 
 So, I've abandoned Cocoapods in favor of using Carthage. You are limited to projects that are Carthage-compatible, which currently seems smaller than the set of projects that are Cocoapods-compatible, but if you too have this problem, it might be worth it to convert to Carthage.
+
 ***
 #### Recommended Flow:
 
 I have two repositories on my system. I recommend making a folder for Couchy itself, and a separate folder for the white-labels (mine is called `couchy-suite`). Setting up the folder structure this way facilitates getting the 'feel' for development; I might add a new image to the framework itself, and then go ahead and introduce those changes with `sh update.sh local`.
 
 `UsesCouchy` and `CouchyLite` are included to demonstrate that the dependencies used in Couchy can be used in both swift and objective-c projects.
+
+
+***
+#### In Action:
+
+After setting up Couchy (and perhaps before diving right into development), try out the sample tags I created! `v1.1` introduces a `CouchyController` that is set as the root for the white-labels. Run both projects and smile when the build succeeds in both an Objective-C and Swift project! Then, you can update to `v1.2` to see the `CouchyController` get a much needed facelift. I've provided this as visual proof, but you can also see that the white-labels successfully compile a mix of objects--couchbaselite items, a swift `ParentContainer` class, and some objective-c `ChildModels`. So while updating Couchy itself is a timesink, development on the white-labels doesn't have to be **nearly** as painful.
 
 ***
 #### To use Couchy: 
